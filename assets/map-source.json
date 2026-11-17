@@ -1,0 +1,31 @@
+{
+  "retrievedAt": "2026-11-13",
+  "referencePage": "https://deadlock.wiki/Cursed_Apple",
+  "actualSource": "https://api.deadlock-api.com/v1/assets/map",
+  "radius": 10752,
+  "orientation": "X right; Y up",
+  "art": "Valve game minimap mask; composed locally",
+  "buildCompatibility": "Reference only. Asset URLs are not versioned. Sample build 10932 uses same bounds; base sentry coordinates agree with API snapshot.",
+  "files": [
+    {
+      "file": "cursed-apple-mid.png",
+      "sha256": "b98847d1b35bf6775a00f97e33bd11e7510f03bbdb1ebf2e4ab5ee50b252a932",
+      "url": "https://assets-bucket.deadlock-api.com/assets-api-res/images/maps/minimap_midtown_mid.png"
+    },
+    {
+      "file": "cursed-apple-tunnels.png",
+      "sha256": "e4e9370521be53ee0ce2ad95628f6d6fbefe604e88c0e300c5fd99065608702e",
+      "url": "https://assets-bucket.deadlock-api.com/assets-api-res/images/maps/minimap_midtown_mid_tunnels.png"
+    },
+    {
+      "file": "cursed-apple-rat.png",
+      "sha256": "45a1d7c9bd132ef8b5741caa45acf7c5f59ada2ab238fd1fb0afa44629a784d5",
+      "url": "https://assets-bucket.deadlock-api.com/assets-api-res/images/maps/minimap_midtown_rat_tunnels.png"
+    },
+    {
+      "file": "cursed-apple-frame.png",
+      "sha256": "4275cda35b2bdc2961df8c0fc5620bbca136cd8bd28527b985c76e3d7a32a273",
+      "url": "https://assets-bucket.deadlock-api.com/assets-api-res/images/maps/minimap_frame.png"
+    }
+  ]
+}

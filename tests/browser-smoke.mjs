@@ -1,0 +1,27 @@
+import {chromium} from '@playwright/test';
+import {writeFileSync,mkdirSync} from 'node:fs';
+import {resolve} from 'node:path';
+const root=resolve(import.meta.dirname,'..');
+const file=process.env.REVIEW_FILE||resolve(root,'../research/134791125.dem');
+const browser=await chromium.launch({channel:process.env.REVIEW_CHANNEL||'chrome',headless:true});
+const context=await browser.newContext({viewport:{width:1510,height:1050},acceptDownloads:true});
+const page=await context.newPage(),network=[],errors=[];
+page.on('request',r=>network.push({url:r.url(),method:r.method(),postBytes:r.postDataBuffer()?.length||0}));
+page.on('pageerror',e=>{errors.push(e.message);console.log('PAGE ERROR',e.message);});
+page.on('console',m=>{if(m.type()==='error')console.log('CONSOLE',m.text().slice(0,1000));});
+const baseURL=process.env.REVIEW_URL||'http://127.0.0.1:4180/';
+await page.goto(baseURL);
+console.log('Cross-origin isolated:',await page.evaluate(()=>globalThis.crossOriginIsolated));
+console.log('Opened page');
+const chooser=page.waitForEvent('filechooser');await page.getByRole('button',{name:'导入 .dem / .dlreview',exact:true}).click();await(await chooser).setFiles(file);
+const start=Date.now();let importSeconds;
+try{await page.waitForFunction(()=>!!document.querySelector('.roster'),{},{timeout:600000});importSeconds=(Date.now()-start)/1000;console.log('Imported in',importSeconds,'seconds');
+await page.waitForFunction(()=>document.querySelectorAll('.player-row').length===12,{},{timeout:60000});
+await page.getByRole('slider',{name:'录像时间'}).fill('599.9375');await page.waitForTimeout(1500);
+await page.screenshot({path:resolve(root,'reports/browser-review.png'),fullPage:true});
+await page.getByRole('button',{name:'笔记',exact:true}).click();await page.getByRole('textbox',{name:'书签笔记'}).fill('Web 浏览器本地验收');await page.getByRole('button',{name:/保存书签/}).click();await page.waitForTimeout(1000);
+const dl=page.waitForEvent('download');await page.getByRole('button',{name:'导出工程 ↗',exact:true}).click();await(await dl).saveAs(resolve(root,'reports/browser-roundtrip.dlreview'));
+await page.reload();await page.locator('.library-cards button').first().click();await page.waitForFunction(()=>document.querySelectorAll('.player-row').length===12,{},{timeout:60000});await page.getByRole('button',{name:'笔记',exact:true}).click();await page.getByText('Web 浏览器本地验收',{exact:true}).waitFor();
+const report={importSeconds,totalSeconds:(Date.now()-start)/1000,players:12,persistence:'passed',export:'passed',errors,network,uploadRequests:network.filter(r=>!['GET','HEAD'].includes(r.method)),externalRequests:network.filter(r=>!r.url.startsWith(new URL(baseURL).origin+'/')&&!r.url.startsWith('blob:')&&!r.url.startsWith('data:'))};
+writeFileSync(resolve(root,'reports/browser-smoke.json'),JSON.stringify(report,null,2));if(report.uploadRequests.length||report.externalRequests.length||errors.length)throw new Error('Privacy or browser errors');
+}catch(e){if(!page.isClosed()){console.log('BODY',await page.locator('body').innerText());await page.screenshot({path:resolve(root,'reports/browser-error.png'),fullPage:true});}writeFileSync(resolve(root,'reports/browser-errors.json'),JSON.stringify({errors,network},null,2));throw e;}finally{await browser.close();}

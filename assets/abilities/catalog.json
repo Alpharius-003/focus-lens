@@ -1,0 +1,2631 @@
+{
+  "heroes": {
+    "1": [
+      491391007,
+      3516947824,
+      1593133799,
+      1142270357
+    ],
+    "2": [
+      1065103387,
+      1074714947,
+      539192269,
+      2061574352
+    ],
+    "3": [
+      537527508,
+      1796564033,
+      2048438176,
+      775377419
+    ],
+    "4": [
+      715325746,
+      218284420,
+      3230530872,
+      1307289689
+    ],
+    "6": [
+      4072270083,
+      2824119765,
+      715762406,
+      509856396
+    ],
+    "7": [
+      1999680326,
+      4147641675,
+      1842576017,
+      2981692841
+    ],
+    "8": [
+      3133377790,
+      2142734020,
+      1725685134,
+      3503044146
+    ],
+    "10": [
+      58655583,
+      1366719170,
+      1128670012,
+      2917891787
+    ],
+    "11": [
+      3760705623,
+      2031714424,
+      492030745,
+      249410288
+    ],
+    "12": [
+      18921423,
+      1963397252,
+      2351041382,
+      3826390464
+    ],
+    "13": [
+      2948410412,
+      2414191464,
+      1080948381,
+      731943444
+    ],
+    "14": [
+      1235098866,
+      2240607294,
+      4179229681,
+      3190606822
+    ],
+    "15": [
+      3089858203,
+      2521902222,
+      1928108461,
+      3832675871
+    ],
+    "16": [
+      4131517918,
+      1426567660,
+      1009029159,
+      2054144742
+    ],
+    "17": [
+      548943648,
+      3452399392,
+      512733154,
+      3242902780
+    ],
+    "18": [
+      1454278799,
+      2406758797,
+      1914797280,
+      1917840730
+    ],
+    "19": [
+      2460791803,
+      1458044103,
+      1537272748,
+      1835738020
+    ],
+    "20": [
+      4111222521,
+      1531378655,
+      3642273386,
+      1247583368
+    ],
+    "21": [
+      4260284622,
+      3219375905,
+      21628267,
+      488392205
+    ],
+    "25": [
+      2656490109,
+      2751689917,
+      1656913918,
+      2702908623
+    ],
+    "27": [
+      3255651252,
+      2566573207,
+      2366960452,
+      3319782965
+    ],
+    "31": [
+      3561817145,
+      2670099061,
+      519124136,
+      397010810
+    ],
+    "35": [
+      3247040238,
+      3788152387,
+      1020817390,
+      4206531918
+    ],
+    "38": [
+      58655583,
+      289749826,
+      2839987102,
+      3248109871
+    ],
+    "39": [
+      3577477084,
+      2984400727,
+      1584495732,
+      3908497730
+    ],
+    "48": [
+      2153275594,
+      208809857,
+      3422822440,
+      3426178920
+    ],
+    "49": [
+      4182904284,
+      639385332,
+      1613872264,
+      363299194
+    ],
+    "50": [
+      938149308,
+      1976701714,
+      3747867012,
+      2954330093
+    ],
+    "51": [
+      348689004,
+      2086284285,
+      2489807574,
+      2563620507
+    ],
+    "52": [
+      3733594387,
+      1336069669,
+      2221949202,
+      2604653402
+    ],
+    "53": [],
+    "54": [
+      1157620447,
+      421275722,
+      957095276,
+      599532073
+    ],
+    "56": [
+      3338528319,
+      3875361929,
+      4081662205,
+      3232290270
+    ],
+    "57": [
+      2935955509,
+      2322200384,
+      1105433407,
+      2824729668
+    ],
+    "58": [
+      645773760,
+      3428732129,
+      1469918191,
+      1594727071
+    ],
+    "59": [
+      1288133032,
+      2833514487,
+      371372145,
+      916959628
+    ],
+    "60": [
+      3156905386,
+      12456023,
+      2142213586,
+      191022746
+    ],
+    "61": [
+      2675680636,
+      3360792911,
+      3322902852,
+      2876116869
+    ],
+    "62": [
+      1773588524,
+      4210991587,
+      1842576017,
+      1101238302
+    ],
+    "63": [
+      193508101,
+      2398133749,
+      1233782561,
+      3379486147
+    ],
+    "64": [
+      3120550633,
+      1264175662,
+      1033019133,
+      1168182161
+    ],
+    "65": [
+      911307831,
+      1764146857,
+      11154161,
+      2918874166
+    ],
+    "66": [
+      2043074967,
+      3727084744,
+      1472593493,
+      3493884851
+    ],
+    "67": [
+      604448162,
+      3553292912,
+      3054993162,
+      1841901343
+    ],
+    "68": [
+      1831181190,
+      3793541808,
+      2674556961,
+      1815345037
+    ],
+    "69": [
+      103496908,
+      109766091,
+      1719512318,
+      1703045691
+    ],
+    "70": [
+      201562678,
+      3449758496,
+      228680142,
+      3248109871
+    ],
+    "71": [
+      2619369142,
+      682591488,
+      1418303954,
+      1048488396
+    ],
+    "72": [
+      1841661392,
+      1792773251,
+      3296031213,
+      3762861984
+    ],
+    "73": [
+      3923533266,
+      2082403219,
+      2800600819,
+      2510227556
+    ],
+    "74": [
+      2627122290,
+      4197612718,
+      2949458312,
+      2561043068
+    ],
+    "75": [
+      309803113,
+      3803152704,
+      620778714,
+      3632058121
+    ],
+    "76": [
+      3214055642,
+      2001589780,
+      629925354,
+      4110547059
+    ],
+    "77": [
+      725153709,
+      2006773718,
+      147493976,
+      494112189
+    ],
+    "78": [
+      2603013853,
+      1904698842,
+      374042410,
+      1026127931
+    ],
+    "79": [
+      3692321247,
+      1568845221,
+      536278136,
+      2396527575
+    ],
+    "80": [
+      1385849824,
+      2717130900,
+      3983754897,
+      515791019
+    ],
+    "81": [
+      3443575800,
+      1950738949,
+      1011349580,
+      2590796390
+    ],
+    "82": [
+      808611817,
+      1777250969,
+      3819597066,
+      463497510
+    ],
+    "83": [],
+    "84": [
+      3002308408,
+      3681399397,
+      690412829,
+      1627989937
+    ],
+    "85": [
+      4011110259,
+      4180486641,
+      2424652896,
+      1389230689
+    ],
+    "86": [
+      836615329,
+      3389503777,
+      3612874202,
+      2516700978
+    ],
+    "87": [
+      267712790,
+      3621314027,
+      683490631,
+      3427093887
+    ],
+    "88": [
+      1282689113,
+      3122124161,
+      2003165630,
+      299875845
+    ]
+  },
+  "abilities": {
+    "491391007": {
+      "id": 491391007,
+      "className": "ability_incendiary_projectile",
+      "name": "Napalm",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/inferno_molotov.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "15ec95a4b6bb815878d1dfd4b187b12fc86bfe03ee8cbd4c822ace585588bbb2"
+    },
+    "3516947824": {
+      "id": 3516947824,
+      "className": "ability_flame_dash",
+      "name": "Flame Dash",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/inferno_dash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7ccfc57ca5040cb474a83570a9941eeab7022db9eac12dc2762607ed0ae13ee9"
+    },
+    "1593133799": {
+      "id": 1593133799,
+      "className": "ability_afterburn",
+      "name": "Afterburn",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/inferno_deflect.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f7c58c3dcb1a9cb762f3cfd722a3f7e11754d05fc21f7cbf634d949bd99074b9"
+    },
+    "1142270357": {
+      "id": 1142270357,
+      "className": "ability_fire_bomb",
+      "name": "Concussive Combustion",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/inferno_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d93c437dddfad4b86df5b60cbd5b7c2fee503ad86581e36191e44ab3971cd570"
+    },
+    "1065103387": {
+      "id": 1065103387,
+      "className": "citadel_ability_lightning_ball",
+      "name": "Lightning Ball",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/giga_ball.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "0f43919371d53bf6cceb5b5783b29bd95b77e96cddf26a84ae8dbe2bb76591c7"
+    },
+    "1074714947": {
+      "id": 1074714947,
+      "className": "citadel_ability_static_charge",
+      "name": "Static Charge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/giga_static.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "77dccc9d24ec250ff589b51e3bcfa03ebebae9c1ad4ed18eb606e92e4c12c0a3"
+    },
+    "539192269": {
+      "id": 539192269,
+      "className": "ability_power_surge",
+      "name": "Power Surge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/giga_chain.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8d60522d5dc5a4821696a8603b94150bbf833a5727563677fd99bdcb66ca3bab"
+    },
+    "2061574352": {
+      "id": 2061574352,
+      "className": "citadel_ability_storm_cloud",
+      "name": "Storm Cloud",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/giga_storm.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ef15020994b27d45dab0f50edf36e4fa4487c67adab8f8e1dfea7b2b3915e8db"
+    },
+    "537527508": {
+      "id": 537527508,
+      "className": "citadel_ability_hornet_chain",
+      "name": "Stake",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/vindicta_stake.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0ee19ae2adfcc65565a3cb29fc98be047f6ab79b269691c3e9442bb0689e3e1e"
+    },
+    "1796564033": {
+      "id": 1796564033,
+      "className": "citadel_ability_hornet_leap",
+      "name": "Flight",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/vindicta_flight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d8da082211459f92ed83c25bbae8e14eda4983dcb233927259e0db7d360ba842"
+    },
+    "2048438176": {
+      "id": 2048438176,
+      "className": "citadel_ability_hornet_sting",
+      "name": "Crow Familiar",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/hornet_crow.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "140f32369b6887f59aa6aa74567070b397b60961d8c427409101ba65718fd356"
+    },
+    "775377419": {
+      "id": 775377419,
+      "className": "citadel_ability_hornet_snipe",
+      "name": "Assassinate",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/hornet_assassinate.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "db43a17decdbeec81568de7b281aa1dc83638c8f12f9563dfb236c15db195675"
+    },
+    "715325746": {
+      "id": 715325746,
+      "className": "ability_blood_bomb",
+      "name": "Essence Bomb",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/spectre/blood_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7056a5917cf2b6c71825dd63dd1129fdc80365d32e59d8eb53fadc743d0bf0e5"
+    },
+    "218284420": {
+      "id": 218284420,
+      "className": "ability_life_drain",
+      "name": "Life Drain",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/spectre/life_drain.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "be97a4553460e17785c17090585578d5a592d36ff6b616a1af1739d80524b042"
+    },
+    "3230530872": {
+      "id": 3230530872,
+      "className": "ability_blood_shards",
+      "name": "Malice",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/spectre/geist_dagger.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "e9a51255c9be755ed7ea05929d0bad0e662adbf2799e57f3ad97fb92c53b35e5"
+    },
+    "1307289689": {
+      "id": 1307289689,
+      "className": "ability_health_swap",
+      "name": "Soul Exchange",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/spectre/blood_exchange.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "68949187bc7a6c6321b645a548c47e47e218f8fe8224ec8e86dd0e8049d2ce31"
+    },
+    "4072270083": {
+      "id": 4072270083,
+      "className": "citadel_ability_bull_heal",
+      "name": "Siphon Life",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bull_drain.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "96154cbca91a32e287727bba498d5110fc97cc4da0ff1086dbdadd8f12f74c49"
+    },
+    "2824119765": {
+      "id": 2824119765,
+      "className": "citadel_ability_bull_charge",
+      "name": "Shoulder Charge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bull_charge.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0b11ea3fd2277e86126ff239f1bb584ff8eb325eaeb5ff76d8861befcd5b45cf"
+    },
+    "715762406": {
+      "id": 715762406,
+      "className": "citadel_ability_passive_beefy",
+      "name": "Infernal Resilience",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bull_beef.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "90b3c9018d1c2180376f4cd2dbcc3791ae5c24c0befdf47244299de090e2ce80"
+    },
+    "509856396": {
+      "id": 509856396,
+      "className": "citadel_ability_bull_leap",
+      "name": "Seismic Impact",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bull_jump.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c9f430c2af54a9acae09a9fa2b27fd28fed6fda73b9fdc58f46c67e1cd37e169"
+    },
+    "1999680326": {
+      "id": 1999680326,
+      "className": "citadel_ability_card_toss",
+      "name": "Card Trick",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_card_trick.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "2c3d0741df55c74204e5969feed2030642b6fb9fef9ed5df1b329122cf0ab090"
+    },
+    "4147641675": {
+      "id": 4147641675,
+      "className": "citadel_ability_projectmind",
+      "name": "Project Mind",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_teleport.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c3070c581acc1b6ec1c5dbaf910130394d3870862bd2e21a30a83304706d814c"
+    },
+    "1842576017": {
+      "id": 1842576017,
+      "className": "citadel_ability_wraith_rapidfire",
+      "name": "Full Auto",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_aura.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "88cb8e704254490410e9a6f9683804c544e8a163f86bfe6a1d41c04b4541cbb4"
+    },
+    "2981692841": {
+      "id": 2981692841,
+      "className": "citadel_ability_psychic_lift",
+      "name": "Telekinesis",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_lift.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5cb4e6fca92d0827481bd5b4ee054592a4314abd2e993008b81ee7ee3095f471"
+    },
+    "3133377790": {
+      "id": 3133377790,
+      "className": "citadel_ability_shieldedsentry",
+      "name": "Mini Turret",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/engineer_turret.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "a1e4a3fbe517649b552ebb56303369a97dbe2b16dfe88f200ecf3b1eb2ccdfa6"
+    },
+    "2142734020": {
+      "id": 2142734020,
+      "className": "citadel_ability_mobile_resupply",
+      "name": "Medicinal Specter",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/engineer_resupply.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "eccb68fbea49295d730c25bce878ae29e95fbf7b470f3c59b286dc490003cf65"
+    },
+    "1725685134": {
+      "id": 1725685134,
+      "className": "citadel_ability_fissure_wall",
+      "name": "Spectral Wall",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/engineer_fissure_2.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b0d43fec6ea31f47ddcc21e9badf3e4b8eb3718d079aec4362e43bef565d1a4a"
+    },
+    "3503044146": {
+      "id": 3503044146,
+      "className": "citadel_ability_rocket_barrage",
+      "name": "Heavy Barrage",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/engineer_rockets.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "50a570083e09bfc0d16140c961642becbc8270b293ec15c8d51776aa9721a880"
+    },
+    "58655583": {
+      "id": 58655583,
+      "className": "citadel_ability_chrono_pulse_grenade",
+      "name": "Pulse Grenade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chrono/chrono_time_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6c50420fe28e6179932dcc8957d5fd8b34cfb7ca9dff5de63060b2cc988b8ad9"
+    },
+    "1366719170": {
+      "id": 1366719170,
+      "className": "citadel_ability_chrono_time_wall",
+      "name": "Time Wall",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chrono/chrono_time_wall.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7da34e1f70f93dbefb2b542b617bcd12c135bb1eafbdab6ace8fa4adca33bfc3"
+    },
+    "1128670012": {
+      "id": 1128670012,
+      "className": "citadel_ability_chrono_kinetic_carbine",
+      "name": "Kinetic Carbine",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/duo/duo_attack.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a17c80372b7b5a16c33966b00428cc309c750726b5d5fb0d85cab9a4bfaa5f96"
+    },
+    "2917891787": {
+      "id": 2917891787,
+      "className": "citadel_ability_chrono_swap",
+      "name": "Paradoxical Swap",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chrono/chrono_swap.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "58aa2003e3ba4a640e3898ab82c519250395f8bf90488bc809179f5d21333580"
+    },
+    "3760705623": {
+      "id": 3760705623,
+      "className": "citadel_ability_stomp",
+      "name": "Kinetic Pulse",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/sumo/sumo_stomp.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "1000569efe81bacf912d55e0d1cdf3a661f6908c7229d948b70d177b79dea692"
+    },
+    "2031714424": {
+      "id": 2031714424,
+      "className": "citadel_ability_void_sphere",
+      "name": "Quantum Entanglement",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/sumo/sumo_quantum.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "26d645251a6ec145a707ab691f9fc86893c3666d640c57577f970e1dc7660e40"
+    },
+    "492030745": {
+      "id": 492030745,
+      "className": "citadel_ability_nikuman",
+      "name": "Rejuvenating Aurora",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/sumo/sumo_pork_bun.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "96b7f49a205f8813b6774c907a039866d8b2da370f59e90d3d4558ba3239c76d"
+    },
+    "249410288": {
+      "id": 249410288,
+      "className": "citadel_ability_self_vacuum",
+      "name": "Singularity",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/sumo/sumo_vacuum.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "573ccfffca896f5bb2e55266a9c1078c9aba4bdb54af1752cd3f1ab5f7903bc7"
+    },
+    "18921423": {
+      "id": 18921423,
+      "className": "ability_ice_grenade",
+      "name": "Frost Grenade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/freezing_grenade.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "8350015486abc7d8e7b16e426c70bf872d6760eb445533bc4119693fa9e509fe"
+    },
+    "1963397252": {
+      "id": 1963397252,
+      "className": "ability_icepath",
+      "name": "Ice Path",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/ice_path.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "96bf090c2c2e263908e8a765be1514369f0696cc3ba1f9041cc95b58c50f5e3a"
+    },
+    "2351041382": {
+      "id": 2351041382,
+      "className": "ability_icebeam",
+      "name": "Arctic Beam",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/ice_beam.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7fb6357e037e93a52328932b5fe1b8321286a83e757e9e3dd2002346e5b44df8"
+    },
+    "3826390464": {
+      "id": 3826390464,
+      "className": "ability_ice_dome",
+      "name": "Frozen Shelter",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/frozen_shelter.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "153cfc52fe69486e7c74babce69387c42b0d8f661bfb4f8689e280e067322484"
+    },
+    "2948410412": {
+      "id": 2948410412,
+      "className": "ability_sleep_dagger",
+      "name": "Sleep Dagger",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/haze/haze_sleep_dagger.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "48e522d69f0bf50f98b17954c0f8f57306aced9b259bd5e3a70b196200d47e97"
+    },
+    "2414191464": {
+      "id": 2414191464,
+      "className": "ability_smoke_bomb",
+      "name": "Smoke Bomb",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/haze/haze_smoke_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5d9d09c6e9c46e6e539e3b440ba192d4eec5df288b809149857fe0722df11859"
+    },
+    "1080948381": {
+      "id": 1080948381,
+      "className": "ability_stacking_damage",
+      "name": "Fixation",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/haze/haze_fixation.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4454d6291f21eaa4ce54bd3651d7ac47716f281fb1943c9514d4570dd1d90b09"
+    },
+    "731943444": {
+      "id": 731943444,
+      "className": "ability_bullet_flurry",
+      "name": "Bullet Dance",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/haze/haze_bullet_flurry.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "1d36e6db93c625548c449b3084f62a325bd87c2d46054727249a70b0dda83d3b"
+    },
+    "1235098866": {
+      "id": 1235098866,
+      "className": "ability_explosive_barrel",
+      "name": "Powder Keg",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/astro/holliday_powder_keg.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "fe6fe68e773946f0fbd9e2fc2b5adc751c294825fd9c4b6e3b470dfe6ac0b2d6"
+    },
+    "2240607294": {
+      "id": 2240607294,
+      "className": "ability_bounce_pad",
+      "name": "Bounce Pad",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/astro/holliday_bounce_pad.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "7ea68ce96066f640a08b72034e8b5c207a5125af836aaf3c0a963f8bb67404ac"
+    },
+    "4179229681": {
+      "id": 4179229681,
+      "className": "ability_crackshot",
+      "name": "Crackshot",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/astro/holliday_crackshot.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c9f77b4bba5268324350ee7f9552a4fc2fb466f0528eb870fa9300ca770d8f52"
+    },
+    "3190606822": {
+      "id": 3190606822,
+      "className": "ability_gravity_lasso",
+      "name": "Spirit Lasso",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/astro/holliday_spirit_lasso.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "37927ddd0bbbe9d75116d89919c7da9de4ae320fc9e17a17ae7f74bfdb184c6b"
+    },
+    "3089858203": {
+      "id": 3089858203,
+      "className": "citadel_ability_uppercut",
+      "name": "Exploding Uppercut",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_uppercut.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "de01e38ac9a8b3ba0b500cd71234796f7540e4134f72e6e45c77dcddb7eb0e05"
+    },
+    "2521902222": {
+      "id": 2521902222,
+      "className": "citadel_ability_sticky_bomb",
+      "name": "Sticky Bomb",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_sticky_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4f66303fc5a65a7ebdcda0022c96c355d47976a7456a5eed560e848d457d5b1f"
+    },
+    "1928108461": {
+      "id": 1928108461,
+      "className": "citadel_ability_hook",
+      "name": "Grapple Arm",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_hook.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "326ca61b11c84ba67cb3259225e882e1f2347c742eedc2d833fcb141defc4255"
+    },
+    "3832675871": {
+      "id": 3832675871,
+      "className": "citadel_ability_bebop_laser_beam",
+      "name": "Hyper Beam",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_hyper_beam.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8ca24ab9429e75f9ef35cec08ffd8a46630fce4c3fd342e92a732d6b1180ebe7"
+    },
+    "4131517918": {
+      "id": 4131517918,
+      "className": "ability_nano_clustergrenade",
+      "name": "Gloom Bombs",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_clustergrenade.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ffdb1aa3087bf6cf362ca68ccdf0e683cd95a2bde0f4229f2259d2865c57cc0c"
+    },
+    "1426567660": {
+      "id": 1426567660,
+      "className": "ability_nano_dash",
+      "name": "Leaping Slash",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_dash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "3ce7e5cec8263dd96fd089d601c38c2429249bf746d31ba1c69991654c9468ad"
+    },
+    "1009029159": {
+      "id": 1009029159,
+      "className": "ability_nano_catform",
+      "name": "Ava",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_catform.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "fa856412826ea63e0578608e368cfeb210caa4af1dd2438e30d885a987f0947b"
+    },
+    "2054144742": {
+      "id": 2054144742,
+      "className": "ability_nano_shadow_pulse",
+      "name": "Return to Shadows",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_shadow_pulse.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "cb90481a8df5af4e91c1923e8a8451dbd77d9330e82f1fd348b3dbb34e552146"
+    },
+    "548943648": {
+      "id": 548943648,
+      "className": "ability_charged_shot",
+      "name": "Charged Shot",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/archer/archer_charged_shot.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "c9fbefca430939516d175597cd16e0b3095cc8f2d366146fbc1660ce215df527"
+    },
+    "3452399392": {
+      "id": 3452399392,
+      "className": "ability_power_jump",
+      "name": "Rain of Arrows",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/archer/archer_power_jump.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "846f0d20a4aa145cdeef2fdb1de6da783578aede4ce1aa526c9e236991a86fa8"
+    },
+    "512733154": {
+      "id": 512733154,
+      "className": "ability_immobilize_trap",
+      "name": "Spirit Snare",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/archer/imobolize_trap.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "69ff2d8592a69cb27231fea703ca4c5cbdddf24ae98342f326b293d61c1e2322"
+    },
+    "3242902780": {
+      "id": 3242902780,
+      "className": "ability_guided_arrow",
+      "name": "Guided Owl",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/archer/archer_guided_arrow.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c349f165d6500a68134f62e46436a7bd6fc4133ef5d36649e5c77e3f135bb7ae"
+    },
+    "1454278799": {
+      "id": 1454278799,
+      "className": "ability_intimidate",
+      "name": "Scorn",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/grappler/grappler_regen.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "62515ddc5bc549da94dbd7e04f37a52bfe92a95d6cbdf3d41d1d369b339c9131"
+    },
+    "2406758797": {
+      "id": 2406758797,
+      "className": "ability_burrow",
+      "name": "Burrow",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/grappler/grappler_spin.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "70c69975676d64b5194c00f8eade2802dabb3557d7d28cf2388d0e9ecf9b9ec3"
+    },
+    "1914797280": {
+      "id": 1914797280,
+      "className": "ability_throw_sand",
+      "name": "Sand Blast",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/grappler/grappler_throw_sand.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "3946f8c5584eb9068d3fc62792ff105d1366252ea4c2d8a84098e0a65492aee6"
+    },
+    "1917840730": {
+      "id": 1917840730,
+      "className": "ability_ult_combo",
+      "name": "Combo",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/grappler/grappler_combo.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d489e3a5efe272bc5904ee8c7581ead9903fe27e511d33f78fec4ec4df8e5d72"
+    },
+    "2460791803": {
+      "id": 2460791803,
+      "className": "citadel_ability_shiv_dagger",
+      "name": "Serrated Knives",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/shiv/shiv_toss.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "6aa450bb934da793dc31a5ba725293b717ba115404c99b6779f7fc8d1c726ac0"
+    },
+    "1458044103": {
+      "id": 1458044103,
+      "className": "citadel_ability_shiv_dash",
+      "name": "Slice and Dice",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/shiv/shiv_flash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "71ec064faccff65ff0750a193ba24479573b5a2c7b00d1c60c37e08cc6ec51c0"
+    },
+    "1537272748": {
+      "id": 1537272748,
+      "className": "citadel_ability_shiv_defer_damage",
+      "name": "Bloodletting",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/shiv/shiv_bloodletting.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "dc879bc6ece8361ec53f29e79636bb3033e44af52bf2c9288c1010a93f510985"
+    },
+    "1835738020": {
+      "id": 1835738020,
+      "className": "citadel_ability_shiv_killing_blow",
+      "name": "Killing Blow",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/shiv/shiv_killing_blow.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "884d33f29ee08036e852d64c8f324256a92d4dacea074263a52bc0a500159aac"
+    },
+    "4111222521": {
+      "id": 4111222521,
+      "className": "citadel_ability_tengu_urn",
+      "name": "Entangling Thorns",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tengu/tengu_storm_flask.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "a4c70fd2fa42be9d0ae088cbf5d9c44eb5eca86be11caba48e6bef39fee5a40f"
+    },
+    "1531378655": {
+      "id": 1531378655,
+      "className": "citadel_ability_tangotether",
+      "name": "Kudzu Connection",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tengu/tengu_tether.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6feae460f216b0ae7ba33ae1548a383f420ac02fb74e24aa2eea0cd541fded39"
+    },
+    "3642273386": {
+      "id": 3642273386,
+      "className": "citadel_ability_tengu_stone_form",
+      "name": "Stone Form",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tengu/tengu_stone_form.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "feacaf36fca27d77f833d10cfdcb501324f03037b4bb357130007c269e9b0032"
+    },
+    "1247583368": {
+      "id": 1247583368,
+      "className": "citadel_ability_tengu_airlift",
+      "name": "Air Drop",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tengu/tengu_lightning_crash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "760f8edbd10043295ba4f7cbbb8a02f9b87ae0629ee356a7f56934134e5661dc"
+    },
+    "4260284622": {
+      "id": 4260284622,
+      "className": "citadel_ability_kali_spinning_blade",
+      "name": "citadel_ability_kali_spinning_blade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kali/kali_oscilloblade.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "7b22d50b13d6300cf458ddce9cd68e09e11c7a7a69e8755e76cbfbb147b03399"
+    },
+    "3219375905": {
+      "id": 3219375905,
+      "className": "citadel_ability_kali_disruptive_charge",
+      "name": "citadel_ability_kali_disruptive_charge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kali/kali_speed_burst.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a4c777fb66f5604bf5c7fc0a9db412628b4f78a6ce11308aae1dfaf5e1504f35"
+    },
+    "21628267": {
+      "id": 21628267,
+      "className": "ability_kali_dust_storm",
+      "name": "ability_kali_dust_storm",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kali/kali_whirling_blade.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ba35d2aeca5f456e603da250d27f86832f295d0bc15e0714b6fb80ece81b9a0d"
+    },
+    "488392205": {
+      "id": 488392205,
+      "className": "ability_kali_trappers_bolo",
+      "name": "ability_kali_trappers_bolo",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_sticky_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4f66303fc5a65a7ebdcda0022c96c355d47976a7456a5eed560e848d457d5b1f"
+    },
+    "2656490109": {
+      "id": 2656490109,
+      "className": "ability_warden_crowd_control",
+      "name": "Alchemical Flask",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/warden/warden_crowd_control.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "bb8bb04f411b2d5db2c5e45a774e72a74efbc6c5de25a9060aab9215c3c73cc6"
+    },
+    "2751689917": {
+      "id": 2751689917,
+      "className": "ability_warden_high_alert",
+      "name": "Willpower",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/warden/warden_high_alert.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7953622dbe673374c35d0c0acc49c1627ff8f8257b1a02e063ccba31a81c04c4"
+    },
+    "1656913918": {
+      "id": 1656913918,
+      "className": "ability_warden_lock_down",
+      "name": "Binding Word",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/warden/warden_lock_down.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b43c9266a3cfe8124b0fd06eb113b21107f0ef76ce1a5f77b9f135f4bf000c8a"
+    },
+    "2702908623": {
+      "id": 2702908623,
+      "className": "ability_warden_riot_protocol",
+      "name": "Last Stand",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/warden/warden_riot_protocol.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "45b89c63fd04f0989430579a059ba94cf64f4fa0bdf275c2bdbf2a1b3976882a"
+    },
+    "3255651252": {
+      "id": 3255651252,
+      "className": "citadel_ability_power_slash",
+      "name": "Power Slash",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/yamato/yamato_power_slash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0f94802820ea352b6fcd37c7f6778750c142f57c8c547fa4f9d22295be5960d7"
+    },
+    "2566573207": {
+      "id": 2566573207,
+      "className": "citadel_ability_flying_strike",
+      "name": "Flying Slash",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/yamato/yamato_flying_strike.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "713ac4b909d5c3ae9a15cc6e299d93d73139a2b8b075d745093ae4767bd504ee"
+    },
+    "2366960452": {
+      "id": 2366960452,
+      "className": "citadel_ability_healing_slash",
+      "name": "Crimson Slash",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/yamato/yamato_crimson_slash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "800dcfce4b3364828b229ca9e5e0cf806c019b3d854956e11c1abe00a4845a8c"
+    },
+    "3319782965": {
+      "id": 3319782965,
+      "className": "citadel_ability_infinity_slash",
+      "name": "Shadow Transformation",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/yamato/yamato_blinding_steel.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0e3fc15cce42ea6232a40e97a9d1e6a9efef1a2cf678865f94c87ddb3c9b8684"
+    },
+    "3561817145": {
+      "id": 3561817145,
+      "className": "citadel_ability_lash_down_strike",
+      "name": "Ground Strike",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/lash/lash_death_slam.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c98750f481eeb4eb325f74a00686c744d30b10aa4d7f58e568dc4b7ba866bba7"
+    },
+    "2670099061": {
+      "id": 2670099061,
+      "className": "citadel_ability_lash",
+      "name": "Grapple",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/lash/lash_lash.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "cc2788572f36560e1e68371bad74da7e89fedb54a18ee90031415fff9ae652ef"
+    },
+    "519124136": {
+      "id": 519124136,
+      "className": "ability_lash_flog",
+      "name": "Flog",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/lash/lash_flog.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ed532d863ba8b6bce43a54a9f9fff881514979a792092558fc48785033182edc"
+    },
+    "397010810": {
+      "id": 397010810,
+      "className": "citadel_ability_lash_ultimate",
+      "name": "Death Slam",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/lash/lash_counter_lash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "caa9b960f5a9018f9fb46ea0e05da256b1ce5a2fb838c2ddfab11d331463a40e"
+    },
+    "3247040238": {
+      "id": 3247040238,
+      "className": "viscous_goo_grenade",
+      "name": "Splatter",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viscous/viscous_goo_ball.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0a877084c52bdb6595d8d2468ca3fa71361ad9cf6b4aec17256f42bfece9ea46"
+    },
+    "3788152387": {
+      "id": 3788152387,
+      "className": "viscous_restorative_goo",
+      "name": "The Cube",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viscous/viscous_restorative_goo.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "48e0b9a783277ee7755ce20f2266e5dd7e1af6716659ae34ebab5fd67f8332d6"
+    },
+    "1020817390": {
+      "id": 1020817390,
+      "className": "viscous_telepunch",
+      "name": "Puddle Punch",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viscous/viscous_goo_punch.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "ebf530901976f85ac1fbc69dd022f799876304af0879511bd627266ffe64b797"
+    },
+    "4206531918": {
+      "id": 4206531918,
+      "className": "viscous_goo_bowling_ball",
+      "name": "Goo Ball",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viscous/viscous_goo_sphere.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0d9c846c878805094b8b5aae366a431294946e5f6e88f1fa34f5e36ce81c3f52"
+    },
+    "289749826": {
+      "id": 289749826,
+      "className": "gunslinger_knockbackblast",
+      "name": "gunslinger_knockbackblast",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tokamak/tokamak_hot_shot.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f9b7561ab2f91e1f70db7e178d80cf7713f7e6be3904b1bc60281dc8c94eeda7"
+    },
+    "2839987102": {
+      "id": 2839987102,
+      "className": "gunslinger_demonMark",
+      "name": "Infernal Brand",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/hornet_assassinate.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "db43a17decdbeec81568de7b281aa1dc83638c8f12f9563dfb236c15db195675"
+    },
+    "3248109871": {
+      "id": 3248109871,
+      "className": "ability_gunslinger_salvo",
+      "name": "Demontrigger Blitz",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tokamak/tokamak_hot_shot.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f9b7561ab2f91e1f70db7e178d80cf7713f7e6be3904b1bc60281dc8c94eeda7"
+    },
+    "3577477084": {
+      "id": 3577477084,
+      "className": "yakuza_shakedown_target",
+      "name": "yakuza_shakedown_target",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/theboss/the_boss_shakedown.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "49f63c82b39cc57a427a68ba68c91d3f884f438e768d6c57f846f31c811c223a"
+    },
+    "2984400727": {
+      "id": 2984400727,
+      "className": "yakuza_kobun",
+      "name": "yakuza_kobun",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/theboss/the_boss_hired_muscle.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8385ad6eec169dadd23b29e5f84cc24b195dfaaac48081ae2b98090c76a61a50"
+    },
+    "1584495732": {
+      "id": 1584495732,
+      "className": "yakuza_protection_racket",
+      "name": "yakuza_protection_racket",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/theboss/the_boss_protection_racket.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8d77ca38792abfd8f7cc9342987c4ba84f5ba4fc3c640297b20c1017cc3475a5"
+    },
+    "3908497730": {
+      "id": 3908497730,
+      "className": "yakuza_setting_sun",
+      "name": "yakuza_setting_sun",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/theboss/the_boss_setting_sun.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6df1a626fee3dcf09f6be54c0b74a327a346b1df9ec7f8a4b2fc612666b2d82b"
+    },
+    "2153275594": {
+      "id": 2153275594,
+      "className": "citadel_ability_wrecker_bouldergrenade",
+      "name": "Wrecking Ball",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wrecker/wrecking_ball.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a47fe5568af31916c2c5ff74f2b47cc26697c5b8d3c2ae72548f9aad2e741c93"
+    },
+    "208809857": {
+      "id": 208809857,
+      "className": "ability_wrecker_salvage",
+      "name": "Consume",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wrecker/salvage.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b2fc0c1bcc635ee84f5361e041e3450f02fb6e5fb3ed6e75bffd24977b2eaca3"
+    },
+    "3422822440": {
+      "id": 3422822440,
+      "className": "ability_scrap_blast",
+      "name": "Bio Blast",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wrecker/scrap_blast.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "d198338f717a82d0d4dde92cd03bb005992a5e9f3f44584b644ab81ad8e33345"
+    },
+    "3426178920": {
+      "id": 3426178920,
+      "className": "citadel_ability_wrecker_garbage_suck",
+      "name": "Overload",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_sunfire_cataclysm.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "caef22e76529bb24e9db98923a17ee53036cd6e638244c9d1fa20fb2cbaf3bf8"
+    },
+    "4182904284": {
+      "id": 4182904284,
+      "className": "rutger_rocket",
+      "name": "rutger_rocket",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/rutger/rutger_rocket_launcher.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "c7c873a6604671c92ef723608ad47e87630431ec577d8dc7e31b2faefbb97c42"
+    },
+    "639385332": {
+      "id": 639385332,
+      "className": "rutger_force_field",
+      "name": "rutger_force_field",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/rutger/rutger_force_field.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "02abe7806d7c2f79b78f9c985a90305979d2b76621f3137f0f097bba554a7aa5"
+    },
+    "1613872264": {
+      "id": 1613872264,
+      "className": "rutger_cheat_death",
+      "name": "rutger_cheat_death",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/rutger/rutger_cheat_death.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "2647a011c278007047bf3a555f2fe10429141f116e0449986a9c4bbed2185048"
+    },
+    "363299194": {
+      "id": 363299194,
+      "className": "rutger_pulse",
+      "name": "rutger_pulse",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/rutger/rutger_pulse.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "2fa7c3a8315c8cf6608a116d6237215984cd02b17afd640c492ddaa1df2a1fa0"
+    },
+    "938149308": {
+      "id": 938149308,
+      "className": "synth_barrage",
+      "name": "Barrage",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/synth/synth_barrage.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a3b3c8d675a2b07a7a01cf4857ffc854590f9d629cfabd0948e55d99f45072bd"
+    },
+    "1976701714": {
+      "id": 1976701714,
+      "className": "synth_plasma_flux",
+      "name": "Flying Cloak",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/synth/synth_plasma_flux.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d416401fead10ac2cf6f57b2994680e97f26444bb8391969093c47022235a4cb"
+    },
+    "3747867012": {
+      "id": 3747867012,
+      "className": "synth_pulse",
+      "name": "Enchanter's Satchel",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/synth/synth_pulse.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ead432d07d323b6e0a931ea6a27ea4481def88a5269d20b1bfcafb357b6313ad"
+    },
+    "2954330093": {
+      "id": 2954330093,
+      "className": "synth_affliction",
+      "name": "Affliction",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/synth/synth_affliction.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b66d9b77bd871784fc9760de3487e845d5d8230d8198179d4265288f7acff207"
+    },
+    "348689004": {
+      "id": 348689004,
+      "className": "thumper_ability_1",
+      "name": "thumper_ability_1",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/thumper/thumper_ability_1.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "a051fb0adc5717f4bc1189a717455c9f372a3478a3e046616eba8ca4c9acbf1c"
+    },
+    "2086284285": {
+      "id": 2086284285,
+      "className": "thumper_ability_2",
+      "name": "thumper_ability_2",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/thumper/thumper_ability_2.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c10df7e10592e9d99acaafcb26d16a0190b795da46f44a025eeae1dcee16e690"
+    },
+    "2489807574": {
+      "id": 2489807574,
+      "className": "thumper_ability_3",
+      "name": "thumper_ability_3",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/thumper/thumper_ability_3.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d6013ea0e18b38b8d993969d8d5f0711070e7ce8d55f33f430a377dad3efcb3b"
+    },
+    "2563620507": {
+      "id": 2563620507,
+      "className": "thumper_ability_4",
+      "name": "thumper_ability_4",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/thumper/thumper_ability_4.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ec892ef93a103330725eba48ae6f0e8415a359be63f3e3cf3ee62486f4a76dc0"
+    },
+    "3733594387": {
+      "id": 3733594387,
+      "className": "mirage_fire_beetles",
+      "name": "Fire Scarabs",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_fire_beetles.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "f533ae328f0b645726dca29034a8a8641ea27c77ed882ad50a37d1d33a87b7fe"
+    },
+    "1336069669": {
+      "id": 1336069669,
+      "className": "mirage_tornado",
+      "name": "Dust Devil",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_tornado.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "14c48cbc0be7059eea1be2e694afc652849ec5edcb342c2915c905a86f1a1657"
+    },
+    "2221949202": {
+      "id": 2221949202,
+      "className": "mirage_sand_phantom",
+      "name": "Djinn's Mark",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_sand_phantom.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f44df8ed281a03bd6b6fc1f534cbe14f28d18d740c8c1b6d716bf21b076b321d"
+    },
+    "2604653402": {
+      "id": 2604653402,
+      "className": "mirage_teleport",
+      "name": "Traveler",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_teleport.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "42cbe521457db36e53c573003b5cd8a626ff013ddb717d436af6564aaf559647"
+    },
+    "1157620447": {
+      "id": 1157620447,
+      "className": "cadence_ability_anthem",
+      "name": "cadence_ability_anthem",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/cadence/cadence_ability_1.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "084c6611622b9294cda6243a17316931a3916918371c6fe6c19d0550cc7fc287"
+    },
+    "421275722": {
+      "id": 421275722,
+      "className": "cadence_ability_silencecontraptions",
+      "name": "cadence_ability_silencecontraptions",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/cadence/cadence_ability_2.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b4e3f6f40d3291b873b196a8e5180da3775a9eab2a2a2f15ca39ae3d48cbccb6"
+    },
+    "957095276": {
+      "id": 957095276,
+      "className": "cadence_ability_lullaby",
+      "name": "cadence_ability_lullaby",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/cadence/cadence_ability_3.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "69516dc3377b5178a704232aca5f3e3cb4f94753bcaef45ef0b1992c76340be3"
+    },
+    "599532073": {
+      "id": 599532073,
+      "className": "cadence_ability_crescendo",
+      "name": "cadence_ability_crescendo",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/cadence/cadence_ability_4.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "3f076cefc89ff952f0c9c7f5f1f4cc46b3026a5dbfd24a1b41b4a26f1431b3e1"
+    },
+    "3338528319": {
+      "id": 3338528319,
+      "className": "ability_charged_bomb",
+      "name": "ability_charged_bomb",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bebop/bebop_sticky_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4f66303fc5a65a7ebdcda0022c96c355d47976a7456a5eed560e848d457d5b1f"
+    },
+    "3875361929": {
+      "id": 3875361929,
+      "className": "ability_bomber_ability02",
+      "name": "ability_bomber_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "4081662205": {
+      "id": 4081662205,
+      "className": "ability_bomber_ability03",
+      "name": "ability_bomber_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "3232290270": {
+      "id": 3232290270,
+      "className": "ability_bomber_ult",
+      "name": "ability_bomber_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "2935955509": {
+      "id": 2935955509,
+      "className": "ability_shieldguy_ability01",
+      "name": "ability_shieldguy_ability01",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2322200384": {
+      "id": 2322200384,
+      "className": "ability_shieldguy_ability02",
+      "name": "ability_shieldguy_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "1105433407": {
+      "id": 1105433407,
+      "className": "ability_shieldguy_ability03",
+      "name": "ability_shieldguy_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2824729668": {
+      "id": 2824729668,
+      "className": "ability_shieldguy_ult",
+      "name": "ability_shieldguy_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "645773760": {
+      "id": 645773760,
+      "className": "ability_viper_debuffdagger",
+      "name": "Screwjab Dagger",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viper/viper_debuffdagger.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "56176e0e41a15cc19abeee93fd217f7217bf680b72a204154a2f9f7918e67916"
+    },
+    "3428732129": {
+      "id": 3428732129,
+      "className": "ability_viper_venom",
+      "name": "Lethal Venom",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viper/viper_venom.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5106403fa03729bc1b507084772db4a8d424d081fcd175566a484497ee24f73c"
+    },
+    "1469918191": {
+      "id": 1469918191,
+      "className": "ability_viper_snakedash",
+      "name": "Slither",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viper/viper_snakedash.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8d42451864fa06bf6706aa321219e704af063b941b99b49e225f5a2acd875578"
+    },
+    "1594727071": {
+      "id": 1594727071,
+      "className": "ability_viper_petrifybola",
+      "name": "Petrifying Bola",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/viper/viper_petrifybola.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "94d46ef023e26835051511cf9623336e6d2107c24db1388209adad68fa0f270b"
+    },
+    "1288133032": {
+      "id": 1288133032,
+      "className": "citadel_ability_vandal_surge",
+      "name": "citadel_ability_vandal_surge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_lift.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5cb4e6fca92d0827481bd5b4ee054592a4314abd2e993008b81ee7ee3095f471"
+    },
+    "2833514487": {
+      "id": 2833514487,
+      "className": "ability_vandal_pillar",
+      "name": "ability_vandal_pillar",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/tokamak/tokamak_blinding_radiance.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "1fe055b670e2b2980441c8cf7dd410b718fd217aea05525fc0d6eecf15b68ea9"
+    },
+    "371372145": {
+      "id": 371372145,
+      "className": "ability_haunt",
+      "name": "ability_haunt",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/inferno_deflect.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f7c58c3dcb1a9cb762f3cfd722a3f7e11754d05fc21f7cbf634d949bd99074b9"
+    },
+    "916959628": {
+      "id": 916959628,
+      "className": "citadel_ability_vandal_overflow",
+      "name": "citadel_ability_vandal_overflow",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_lift.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5cb4e6fca92d0827481bd5b4ee054592a4314abd2e993008b81ee7ee3095f471"
+    },
+    "3156905386": {
+      "id": 3156905386,
+      "className": "ability_magician_magicbolt",
+      "name": "Vexing Bolt",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/magician/magician_magicbolt.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "27428f1c91c445f0b1e99c5f330887f757c43a8b9c071eaad1d2c293dd05bdf6"
+    },
+    "12456023": {
+      "id": 12456023,
+      "className": "ability_magician_cloneturret",
+      "name": "Spectral Assistant",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/magician/magician_cloneturret.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f8ea8626dcefc39d1c41d63b4f0e54d8b0c8541abcc91605f0fe558d50b0eaf1"
+    },
+    "2142213586": {
+      "id": 2142213586,
+      "className": "ability_magician_animalhexarea",
+      "name": "Rabbit Hex",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/magician/magician_animalcurse.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b7389c7a8b24802c453f61a9cd8d98dacd30bfdd72b77334cc568f7f72f7f239"
+    },
+    "191022746": {
+      "id": 191022746,
+      "className": "ability_magician_copyult",
+      "name": "Audience Participation",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/magician/magician_copyult.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4616c422f7bad536ec8d7833c7a668a47cd6ee7ddaf2650ccaa6927ecd623f71"
+    },
+    "2675680636": {
+      "id": 2675680636,
+      "className": "ability_trapper_poisonjar",
+      "name": "Bottled Phantasmicide",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/trapper/trapper_poison_jar.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "e53b70b925ca16c5f9e5a14cb03d8f42217371a0df665330bac9345aa6bcc1ef"
+    },
+    "3360792911": {
+      "id": 3360792911,
+      "className": "ability_trapper_webwall",
+      "name": "Silktrap",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/trapper/trapper_web_wall.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "74b0e8a8904a5b68d8c896135616fc5260a4393befef26aff74eb02938ce1e7d"
+    },
+    "3322902852": {
+      "id": 3322902852,
+      "className": "ability_trapper_spidershield",
+      "name": "Pest Barrier",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/trapper/trapper_spider_shield.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "23eb8f28da88421c850f35c4beea0e3ea44517f591758d13cb357fde7a0f4be5"
+    },
+    "2876116869": {
+      "id": 2876116869,
+      "className": "ability_trapper_spiderwave",
+      "name": "Crawling Plague",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/trapper/trapper_spider_wave.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9b8a518a079ff071e70a36b5a1ef70ef5dc531cb69ebe8a737ce7f6a43b24f27"
+    },
+    "1773588524": {
+      "id": 1773588524,
+      "className": "operative_blindside",
+      "name": "Blindside",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/operative/operative_blindside.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "2bbdda53f0983784457abad1edf174987b1b4221abf69eba689acb2e1bab6664"
+    },
+    "4210991587": {
+      "id": 4210991587,
+      "className": "operative_umbrella_maneuver",
+      "name": "Umbrella Maneuver",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/springy_boots.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d67c94bac9987587c25b3bb8480b4cf65d36dcf62273a0d750bf319191f8cfe5"
+    },
+    "1101238302": {
+      "id": 1101238302,
+      "className": "operative_revelation",
+      "name": "Revelation",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/sumo/sumo_pork_bun.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "96b7f49a205f8813b6774c907a039866d8b2da370f59e90d3d4558ba3239c76d"
+    },
+    "193508101": {
+      "id": 193508101,
+      "className": "ability_vampirebat_steallife",
+      "name": "Rake",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/vampirebat/vampirebat_rake.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0fc123ebb3d4eb71ae0b02b81ba3a62d6340b0be30fe721dedd10b6d973cb9d9"
+    },
+    "2398133749": {
+      "id": 2398133749,
+      "className": "ability_vampirebat_batblink",
+      "name": "Sanguine Retreat",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/vampirebat/vampirebat_sanguine_retreat.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5c2f5dac71f1077f769cce523f567958113172b618c4020384218f0e60a34306"
+    },
+    "1233782561": {
+      "id": 1233782561,
+      "className": "ability_vampirebat_lovebites",
+      "name": "Love Bites",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/vampirebat/vampirebat_love_bites.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5c785551f647df4e9aba774aa033214bddb348729042409a62bf217c2d7d4116"
+    },
+    "3379486147": {
+      "id": 3379486147,
+      "className": "ability_vampirebat_batswarm",
+      "name": "Nox Nostra",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/vampirebat/vampirebat_nox_nostra.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d056ddc38fb86b5bada1b95f0c5509c65c6cb8ed53fb9b7474957cb6429509a7"
+    },
+    "3120550633": {
+      "id": 3120550633,
+      "className": "drifter_blood_blast",
+      "name": "Rend",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/drifter/drifter_claw.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a5aa13731469a65e3b78e431b0aea7519f894bec4cb1202e391a6730efd06c0c"
+    },
+    "1264175662": {
+      "id": 1264175662,
+      "className": "drifter_shadow_mark",
+      "name": "Stalker's Mark",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/drifter/drifter_stalkersmark.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9387c776b90ac851a34c617a958d42dbb98bcebb30beb7408347f50f1aed0162"
+    },
+    "1033019133": {
+      "id": 1033019133,
+      "className": "ability_drifter_hunger",
+      "name": "Bloodscent",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/drifter/drifter_thehunger.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "e149f5452b2a63ddc6616386a0ab7ca106ed47f4d7bf03b25a0e60f7eb96738d"
+    },
+    "1168182161": {
+      "id": 1168182161,
+      "className": "drifter_darkness",
+      "name": "Eternal Night",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/drifter/darkness.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "1675b8a9023cff058e3eec977d0a48035f17cbe27ac86a58f237f23574e3c914"
+    },
+    "911307831": {
+      "id": 911307831,
+      "className": "ability_priest_flashbang",
+      "name": "Consecrating Grenade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/priest/priest_grenade.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0e8d62aaed43d4f6d19695078cb8f9ec3c7a9ebcad020a5a11390be288729dc3"
+    },
+    "1764146857": {
+      "id": 1764146857,
+      "className": "ability_priest_knockback",
+      "name": "Gutshot",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/priest/priest_shotgun.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7ebad50d25c7cbf62751ec821f98f7876e25c778dbb050c67907ea3a32c3f2dd"
+    },
+    "11154161": {
+      "id": 11154161,
+      "className": "ability_priest_beartrap",
+      "name": "Hex-Lined Snap Trap",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/priest/priest_trap.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "a5c42f066435a5b4e47cc4721c454596b4c300086f97ba0eafb3f262afd0a304"
+    },
+    "2918874166": {
+      "id": 2918874166,
+      "className": "ability_priest_weaponswap",
+      "name": "Ira Domini",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/priest/priest_crossbow.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "023599b33c64319113194a162f1c5999a1b65f256e34986bbdf5639a7929258a"
+    },
+    "2043074967": {
+      "id": 2043074967,
+      "className": "ability_frank_shocktarget2",
+      "name": "Pain Battery",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/frank/frank_pain_battery.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "8592e59b08a0eda76ec078376837a2d6d6a9fcf540d97e02640e23adef3866ad"
+    },
+    "3727084744": {
+      "id": 3727084744,
+      "className": "ability_frank_selfzap",
+      "name": "Jumpstart",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/frank/frank_jump_start.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "70fafc6c9e34f655a1daa79d0b7de92b69bdd6683e8986e49e99cf9d16920875"
+    },
+    "1472593493": {
+      "id": 1472593493,
+      "className": "ability_frank_painaura",
+      "name": "Aura of Suffering",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/frank/frank_aura_of_suffering.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6f1cfbc998a4676191b5f95a07bbb743b694b0c6213722b99af390dc413b8754"
+    },
+    "3493884851": {
+      "id": 3493884851,
+      "className": "ability_frank_revive",
+      "name": "Shocking Reanimation",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/frank/frank_shocking_reanimation.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5de0120d88e30481ff1702c9049d273ecbc7b49bac4a4da46774abfe387b8423"
+    },
+    "604448162": {
+      "id": 604448162,
+      "className": "ability_bookworm_dragonfire",
+      "name": "Bookwyrm",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bookworm/bookworm_dragon.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "303d51c7da1ef3056d24a33c106e355345609be7dbc6714c1f08b27e66b72025"
+    },
+    "3553292912": {
+      "id": 3553292912,
+      "className": "ability_bookworm_knightbarrier",
+      "name": "Plot Armor",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bookworm/bookworm_defendandfight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "bf2ee86411aa7a5f24aa9d1c314e4a6479a26459ff22abe63429fb41197e0ef2"
+    },
+    "3054993162": {
+      "id": 3054993162,
+      "className": "ability_bookworm_aoemagic",
+      "name": "Captivating Read",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bookworm/bookworm_blindinglight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4df89ee1cdb140b1f28692c2e78b6f8ed922d277bc9685f9552b39bdcae0f3a5"
+    },
+    "1841901343": {
+      "id": 1841901343,
+      "className": "ability_bookworm_knightcharge",
+      "name": "Rallying Charge",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bookworm/bookworm_charge.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c94a020e412ae0ed35fca54194199d1e9ce9ebf0d15dc4548cc939771046de0e"
+    },
+    "1831181190": {
+      "id": 1831181190,
+      "className": "ability_boho_skipgrenade",
+      "name": "ability_boho_skipgrenade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/astro/bounce_pad.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ebb03414feb63dae5cfee54258898fe7c7e0cfd873d57973430ca9f68e40bd50"
+    },
+    "3793541808": {
+      "id": 3793541808,
+      "className": "ability_boho_ability02",
+      "name": "ability_boho_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2674556961": {
+      "id": 2674556961,
+      "className": "ability_boho_ability03",
+      "name": "ability_boho_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "1815345037": {
+      "id": 1815345037,
+      "className": "ability_boho_ridebroom",
+      "name": "ability_boho_ridebroom",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/hornet/vindicta_flight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d8da082211459f92ed83c25bbae8e14eda4983dcb233927259e0db7d360ba842"
+    },
+    "103496908": {
+      "id": 103496908,
+      "className": "ability_doorman_bomb",
+      "name": "Call Bell",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/doorman/doorman_bell.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "66946ebbef82b82be91832e3c83004dabdf425120fb83fc74608fdb58a837ecb"
+    },
+    "109766091": {
+      "id": 109766091,
+      "className": "ability_doorman_doorway",
+      "name": "Doorway",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/doorman/doorman_doorway.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "aa9503652f294cf2ab5847f03f3b6217ebab644708176e847c140551712c0a3e"
+    },
+    "1719512318": {
+      "id": 1719512318,
+      "className": "ability_doorman_luggage_cart",
+      "name": "Luggage Cart",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/doorman/doorman_luggagetrolley.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4965a3a52a2b0d4a4bdc735751fc796ce36d9c17a84bf92e7ae9896db079cb8c"
+    },
+    "1703045691": {
+      "id": 1703045691,
+      "className": "ability_doorman_hotel",
+      "name": "Hotel Guest",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/doorman/doorman_elevator.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "da642690b002d3f2cf786bf4fa2459150d63ace3847f13f02706c996e1652567"
+    },
+    "201562678": {
+      "id": 201562678,
+      "className": "ability_skyrunner_swingline",
+      "name": "Lifethread",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/lash/lash_flog.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "ed532d863ba8b6bce43a54a9f9fff881514979a792092558fc48785033182edc"
+    },
+    "3449758496": {
+      "id": 3449758496,
+      "className": "ability_skyrunner_magic_beam",
+      "name": "ability_skyrunner_magic_beam",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/freezing_grenade.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "8350015486abc7d8e7b16e426c70bf872d6760eb445533bc4119693fa9e509fe"
+    },
+    "228680142": {
+      "id": 228680142,
+      "className": "ability_skyrunner_flakshot",
+      "name": "Flakshot",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/ricochet.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "e396142ca3eeae6482f03f3a9ed392bdb2516b3f6e3129ac849bd503408fa4e8"
+    },
+    "2619369142": {
+      "id": 2619369142,
+      "className": "ability_swan_featherboomerang",
+      "name": "ability_swan_featherboomerang",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/mirage/mirage_fire_beetles.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f533ae328f0b645726dca29034a8a8641ea27c77ed882ad50a37d1d33a87b7fe"
+    },
+    "682591488": {
+      "id": 682591488,
+      "className": "ability_swan_leap",
+      "name": "Jeté",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/bull_jump.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "c9f430c2af54a9acae09a9fa2b27fd28fed6fda73b9fdc58f46c67e1cd37e169"
+    },
+    "1418303954": {
+      "id": 1418303954,
+      "className": "ability_swan_acrobat",
+      "name": "Acrobat",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/kelvin/ice_path.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "96bf090c2c2e263908e8a765be1514369f0696cc3ba1f9041cc95b58c50f5e3a"
+    },
+    "1048488396": {
+      "id": 1048488396,
+      "className": "ability_swan_ult",
+      "name": "ability_swan_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "1841661392": {
+      "id": 1841661392,
+      "className": "ability_punkgoat_ult",
+      "name": "Bashdown",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/punkgoat/goat_sigilslam.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "aaca4f2eb1331fa8defd0475e731caa98e1c8f903ee369761b0a62b21d1d2bcd"
+    },
+    "1792773251": {
+      "id": 1792773251,
+      "className": "ability_punkgoat_goatflip",
+      "name": "Rising Ram",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/punkgoat/goat_risingram.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5c67d4596f3a7a07685d60ffc15ca19e8bff2cbe59704ea02f8a9be1d7d5c798"
+    },
+    "3296031213": {
+      "id": 3296031213,
+      "className": "ability_punkgoat_blasted",
+      "name": "Blasted",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/punkgoat/goat_blasted.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "ebb42c9fa08591f33074169752aa252c1e0f345a0312fb6da24f703af5da3131"
+    },
+    "3762861984": {
+      "id": 3762861984,
+      "className": "ability_punkgoat_tether",
+      "name": "Chain Gang",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/punkgoat/goat_chaingang.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5093e74a51cbb95b51aeeb836e5a8adc081e96dfdb5508a9ba949f8fb29e8038"
+    },
+    "3923533266": {
+      "id": 3923533266,
+      "className": "ability_druid_leech_seed",
+      "name": "ability_druid_leech_seed",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2082403219": {
+      "id": 2082403219,
+      "className": "ability_druid_helicopter_seeds",
+      "name": "ability_druid_helicopter_seeds",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2800600819": {
+      "id": 2800600819,
+      "className": "ability_druid_sprout",
+      "name": "ability_druid_sprout",
+      "image": null,
+      "passive": false,
+      "baseCharges": "0"
+    },
+    "2510227556": {
+      "id": 2510227556,
+      "className": "ability_druid_ult",
+      "name": "ability_druid_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "2627122290": {
+      "id": 2627122290,
+      "className": "ability_graf_ability01",
+      "name": "ability_graf_ability01",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "4197612718": {
+      "id": 4197612718,
+      "className": "ability_graf_ability02",
+      "name": "ability_graf_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2949458312": {
+      "id": 2949458312,
+      "className": "ability_graf_ability03",
+      "name": "ability_graf_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "2561043068": {
+      "id": 2561043068,
+      "className": "ability_graf_ult",
+      "name": "ability_graf_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "309803113": {
+      "id": 309803113,
+      "className": "ability_fortuna_ability01",
+      "name": "ability_fortuna_ability01",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "3803152704": {
+      "id": 3803152704,
+      "className": "ability_fortuna_ability02",
+      "name": "ability_fortuna_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "620778714": {
+      "id": 620778714,
+      "className": "ability_fortuna_ability03",
+      "name": "ability_fortuna_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "3632058121": {
+      "id": 3632058121,
+      "className": "ability_fortuna_ult",
+      "name": "ability_fortuna_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "3214055642": {
+      "id": 3214055642,
+      "className": "ability_necro_hauntingskull",
+      "name": "Jar of Dead",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/necro/necro_skull.png",
+      "passive": false,
+      "baseCharges": "4",
+      "sha256": "7bf37981bb09a97b52bde1db242a17485edc438205a30d294acebf65f7759c1b"
+    },
+    "2001589780": {
+      "id": 2001589780,
+      "className": "ability_necro_zombiewall",
+      "name": "Grasping Hands",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/necro/necro_hands.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f64622d9321e6c8a8a41272e4e069d11d6dc6dd2eec273914a99b2283781b148"
+    },
+    "629925354": {
+      "id": 629925354,
+      "className": "ability_necro_fear",
+      "name": "Essence Theft",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/necro/necro_siphon.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "75f973d22e50bb6e07b911dc9146f6791026d393a42fad8642f4bc735f7926bb"
+    },
+    "4110547059": {
+      "id": 4110547059,
+      "className": "ability_necro_gravestone",
+      "name": "Borrowed Decree",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/necro/necro_gravestone.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5508ff08991c0ed7ed3d50c64e3f2fc8f72b80bb5f6cf4b06659a2cdd5b533d2"
+    },
+    "725153709": {
+      "id": 725153709,
+      "className": "ability_fencer_throwblade",
+      "name": "Disengaging Sigil",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/fencer/fencer_sigil.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b7ac2a22d4e561ccfe7bb1a87ef99e89e5c74cbe9f323c7a599670e6a6f33860"
+    },
+    "2006773718": {
+      "id": 2006773718,
+      "className": "ability_fencer_riposte",
+      "name": "Riposte",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/fencer/fencer_riposte.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6cd5144c3d5f1c28e9f537290797c478229c557a06210e09287109f3dda7def4"
+    },
+    "147493976": {
+      "id": 147493976,
+      "className": "ability_fencer_lunge",
+      "name": "Flawless Advance",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/fencer/fencer_lungingstab.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f6ff73a5624c1bf73f138c6785da79b95e61038501bc588150bedd038efd0e14"
+    },
+    "494112189": {
+      "id": 494112189,
+      "className": "ability_fencer_ultimate",
+      "name": "Itani Lo Sahn",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/fencer/fencer_ult.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "83aa381c19997f53ac0625e8c8b2584d33f8c598d01ef2024b3a019996a38d64"
+    },
+    "2603013853": {
+      "id": 2603013853,
+      "className": "ability_deadpack_chargeblast",
+      "name": "Strix Salvo",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/deadpack/deadpack_salvo.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "2a845bb510809f0f5a47c00b79dabc3009d0c78972bfdc33f454d4faa6914b8d"
+    },
+    "1904698842": {
+      "id": 1904698842,
+      "className": "ability_deadpack_rocketeer",
+      "name": "Chimera Mk1",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/deadpack/deadpack_chimera.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "b6e6951940879d9c97bb4c198554ae20d8c2527c0ad93b2f213cc2872c3fd3f7"
+    },
+    "374042410": {
+      "id": 374042410,
+      "className": "ability_deadpack_flamethrower",
+      "name": "Jettison Fuel",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/deadpack/deadpack_thermalmass.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "838633c24297adcfaa31222353202855fe9e11c0b660ab5f1d24a29e4251860b"
+    },
+    "1026127931": {
+      "id": 1026127931,
+      "className": "ability_deadpack_ultimate",
+      "name": "Close The Deal",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/deadpack/deadpack_flight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6d78781bfa75af9cbf5eeb37f8c6184f4686ec3c8f8b5601ecd9f96aea33a0b3"
+    },
+    "3692321247": {
+      "id": 3692321247,
+      "className": "ability_familiar_ability02",
+      "name": "Pillow Toss",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/familiar/familiar_pillow.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "ff4b678705075907350fc8f70c039e32d50e11997c1a891424d14f64e18e3df3"
+    },
+    "1568845221": {
+      "id": 1568845221,
+      "className": "ability_familiar_attach",
+      "name": "Tag Along",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/familiar/familiar_tag_along.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0b3cd09b17e87b121b75096ddeae13a71b9e846aea90738b850cae1cb2a18fcd"
+    },
+    "536278136": {
+      "id": 536278136,
+      "className": "ability_familiar_helpinghands",
+      "name": "Lil Helpers",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/familiar/familiar_helpers.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "f0e29102cc46f0973fdd35f23271d8d6f3498c628af1b99da19e30d96b640357"
+    },
+    "2396527575": {
+      "id": 2396527575,
+      "className": "ability_familiar_ability01",
+      "name": "Naptime",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/familiar/familiar_sleep.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "2266d19e8b9645e044ed96e2c9ac1027b2bfc2825a0ade6de18af6386833beff"
+    },
+    "1385849824": {
+      "id": 1385849824,
+      "className": "ability_werewolf_unloadgun",
+      "name": "Slam Fire",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/werewolf/werewolf_slamfire.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a7c72347f5d2536b99182eecd247c7a70f7a08939f4a745828364a3bebc9b5fe"
+    },
+    "2717130900": {
+      "id": 2717130900,
+      "className": "ability_werewolf_kickflip",
+      "name": "Boot Kick",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/werewolf/werewolf_jumpback.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "93eb1640895e27e7429872bb75ffea37db66ea8e8b9b475239c5139122dbba4d"
+    },
+    "3983754897": {
+      "id": 3983754897,
+      "className": "ability_werewolf_netshot",
+      "name": "Entangling Bola",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/werewolf/werewolf_bola.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "4e08f75f9691986befd5f6098ea1f04b09ec3dea5afe2a74266c63602906a602"
+    },
+    "515791019": {
+      "id": 515791019,
+      "className": "ability_werewolf_transformation",
+      "name": "Lycan Curse",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/werewolf/werewolf_lycancurse.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "465d918105eb241e45222811711937bb736f220f167df76dd39f628d48fad5ec"
+    },
+    "3443575800": {
+      "id": 3443575800,
+      "className": "ability_unicorn_radiantblast",
+      "name": "Light Eater",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/unicorn/unicorn_flare.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "aa957efaa98d79d15875f1fb3ef3ffadfd3eefa0d3e7f9c661aea015568d314f"
+    },
+    "1950738949": {
+      "id": 1950738949,
+      "className": "ability_unicorn_prismaticguard",
+      "name": "Dazzling Trick",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/unicorn/unicorn_shield.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "858bb6330d94cf60d984c69bb8ba50a8237afc94e1d870178d2340abbaa8c1a9"
+    },
+    "1011349580": {
+      "id": 1011349580,
+      "className": "ability_unicorn_luminousstrike",
+      "name": "Radiant Daggers",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/unicorn/unicorn_luminousflux.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "15ad71f1a1157f2ed642fd1facbb49cc372bfc3231e883890265ba4a7ee40293"
+    },
+    "2590796390": {
+      "id": 2590796390,
+      "className": "ability_unicorn_dazzlingorb",
+      "name": "Shining Wonder",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/unicorn/unicorn_orb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "271ca550f53ebb7511f7800a4cdfda9f1d6e82e882fc76313387df7a655600c1"
+    },
+    "808611817": {
+      "id": 808611817,
+      "className": "ability_opera_ability01",
+      "name": "ability_opera_ability01",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "1777250969": {
+      "id": 1777250969,
+      "className": "ability_opera_ability02",
+      "name": "ability_opera_ability02",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "3819597066": {
+      "id": 3819597066,
+      "className": "ability_opera_ability03",
+      "name": "ability_opera_ability03",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_roller_bomb.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5185c85688b71cef9bba2b10e519898d5024e905c937e8fc16d5d12b50795d6a"
+    },
+    "463497510": {
+      "id": 463497510,
+      "className": "ability_opera_ult",
+      "name": "ability_opera_ult",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nano/nano_tunnel_vision.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "9ff425735ba29a49b6e1a507d7c497e834c3897af24cb3f3c49207b89b3961cd"
+    },
+    "3002308408": {
+      "id": 3002308408,
+      "className": "ability_ratking_scrap_grenade",
+      "name": "Scrap Grenade",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/ratking/ratking_grenade.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "0988a548670823632552c2e193866bd41dea6474c8a3e8057aed578d796d17f7"
+    },
+    "3681399397": {
+      "id": 3681399397,
+      "className": "ability_ratking_ratnibble",
+      "name": "Rat Swarm",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/ratking/ratking_swarm.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "967e3d552bcf17e1ed1674549f8e31b036f1ee3b9950db942dffb823e4dee783"
+    },
+    "690412829": {
+      "id": 690412829,
+      "className": "ability_ratking_ratarmor",
+      "name": "Royal Pestments",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/ratking/ratking_shield.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5660f8f0c1046fc7fa0755270c94b96fb4f549e8ea65c867f67c0f34e5c8acb3"
+    },
+    "1627989937": {
+      "id": 1627989937,
+      "className": "ability_ratking_standard_bearer",
+      "name": "Rule, Ratannia!",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/ratking/ratking_flag.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "74baf5ce72d9df9aec4b0e6b29418b36d03173a264c3faff306b737f798a1df8"
+    },
+    "4011110259": {
+      "id": 4011110259,
+      "className": "ability_chessmaster_throwbishop",
+      "name": "Setup Bishop",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chess/chessmaster_bishop.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "d0d32d0d9580434f31cd5c87497306cf00acf8b0f775b7ea8a68568c3ecfd738"
+    },
+    "4180486641": {
+      "id": 4180486641,
+      "className": "ability_chessmaster_knightbuff",
+      "name": "Kingside Knight",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chess/chessmaster_knight.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "370558f663292afde092240000ef255fdf9ab026548c2473017e6570b21d660b"
+    },
+    "2424652896": {
+      "id": 2424652896,
+      "className": "ability_chessmaster_forkpiece",
+      "name": "Rook Battery",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chess/chessmaster_rook.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "a3164d167bf478b0742cfb0a833e0c82ec7cdbea8b85b1ed96a63d677a63503d"
+    },
+    "1389230689": {
+      "id": 1389230689,
+      "className": "ability_chessmaster_queen",
+      "name": "Develop Queen",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/chess/chessmaster_queen.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "23298ba1bf89e327f9ac2d4c1f64cc3a8d713b7d00f56ac808ea48ebebfab688"
+    },
+    "836615329": {
+      "id": 836615329,
+      "className": "ability_artist_homingbrush",
+      "name": "Living Ink",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/artist/artist_livingink.png",
+      "passive": false,
+      "baseCharges": "2",
+      "sha256": "4f195428dd51e606c3dd7c7b3cb73a0e21a2daefd7eab3c6b82576460df59c58"
+    },
+    "3389503777": {
+      "id": 3389503777,
+      "className": "ability_artist_rollingprojectile",
+      "name": "Flow State",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/artist/artist_brush.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "6e2b0a130eca2f67d46e024e151d46e304cbe46cf52ad628e44effbe30bfa54a"
+    },
+    "3612874202": {
+      "id": 3612874202,
+      "className": "ability_artist_tether",
+      "name": "Still Life",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/artist/artist_portrait.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "adb2e86ddeed3878fa704edf7fe237a4a909a9918b5c1166dfc5c3a32e71874d"
+    },
+    "2516700978": {
+      "id": 2516700978,
+      "className": "ability_artist_bamboogrove",
+      "name": "Abstract Landscape",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/artist/artist_landscape.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "dbdac57df9f3ec664a78ed5232f608fe6abf8acdc390f7d605c0bccf526162b8"
+    },
+    "267712790": {
+      "id": 267712790,
+      "className": "ability_nurse_leech_therapy",
+      "name": "Leech Therapy",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/leech.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5e4e771eef7bd4ae1701566faae9fed87eec4ae863061963d8303b253242d299"
+    },
+    "3621314027": {
+      "id": 3621314027,
+      "className": "ability_nurse_adrenaline_rush",
+      "name": "Wretched Vapors",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/nurse_vapors.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "5ebf60c7c1abf740e0d47f2b14de39c34e26e9db8f520ff391157f9f394b95f4"
+    },
+    "683490631": {
+      "id": 683490631,
+      "className": "ability_nurse_healing_needles",
+      "name": "Healing Needles",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/needle.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "db535bfeebc627e2d1aae3462bc9eae850bcda2bbfc881ee38524aeecae3639d"
+    },
+    "3427093887": {
+      "id": 3427093887,
+      "className": "ability_nurse_fear",
+      "name": "Lurking Terrors",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/medicine_bag.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "7516248452927b8be97b8fca29f89cc5be30c75dea0c3af50fe165f4daed05a6"
+    },
+    "1282689113": {
+      "id": 1282689113,
+      "className": "ability_baba_bubbling_brew",
+      "name": "Threadsap",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/baba/threadsap.png",
+      "passive": false,
+      "baseCharges": "1",
+      "sha256": "8964e1dc8843dc6ed160bd61f110bc9eefef5df06ddc0725d2818dc1f1bc9996"
+    },
+    "3122124161": {
+      "id": 3122124161,
+      "className": "ability_baba_bench_run",
+      "name": "Granny Long Legs",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/baba/strafing_run.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "3ed382b384f854cf7bb19ea3ee451af93aaa1dbc427e8159c5bc8fd9b3d6ace3"
+    },
+    "2003165630": {
+      "id": 2003165630,
+      "className": "ability_baba_hexing_brew",
+      "name": "Baba's Brew",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/baba/teapot_brew.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "69735fdbe68dbc6b2e0a3411bf97c163164b98bba1945f73e5c53166e037c0f2"
+    },
+    "299875845": {
+      "id": 299875845,
+      "className": "ability_baba_ultimate_2",
+      "name": "Feed The Birds",
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/baba/pigeon_launcher.png",
+      "passive": false,
+      "baseCharges": "0",
+      "sha256": "31aa87b964ca0747a370ebad8fa460fb74003c5d546d75d965ae08ec26ba8b3a"
+    }
+  },
+  "sources": [
+    "https://api.deadlock-api.com/v1/assets/heroes",
+    "https://api.deadlock-api.com/v1/assets/items"
+  ],
+  "license": "Game artwork belongs to Valve. See THIRD_PARTY_NOTICES.md."
+}

@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup><TargetFramework>net10.0</TargetFramework><RuntimeIdentifier>browser-wasm</RuntimeIdentifier><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><AllowUnsafeBlocks>true</AllowUnsafeBlocks><WasmMainJSPath>main.mjs</WasmMainJSPath><AssemblyName>Deadlock.Parser</AssemblyName><PublishTrimmed>false</PublishTrimmed><WasmBuildNative>false</WasmBuildNative><InvariantGlobalization>false</InvariantGlobalization><WasmEnableSIMD>true</WasmEnableSIMD><JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault></PropertyGroup>
+<ItemGroup><ProjectReference Include="../../vendor/demofile-net/src/DemoFile.Game.Deadlock/DemoFile.Game.Deadlock.csproj" /></ItemGroup>
+
+</Project>

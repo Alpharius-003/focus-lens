@@ -1,0 +1,2503 @@
+{
+  "source": "https://api.deadlock-api.com/v1/assets/items?language=schinese",
+  "retrievedAt": "2026-11-14",
+  "items": {
+    "1548066885": {
+      "id": 1548066885,
+      "name": "扩容弹匣",
+      "class_name": "upgrade_clip_size",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/basic_magazine.png",
+      "sha256": "23010a351ad38740d68d7e1d7e130ef6415b8e7fbf2b041f74e39760301926a0"
+    },
+    "1009965641": {
+      "id": 1009965641,
+      "name": "猎怪弹",
+      "class_name": "upgrade_non_player_bonus",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/monster_rounds.png",
+      "sha256": "94a2756553999e482bb3c2a904b6f120cc39fae87cbe2c78e16c7d69a42cee8e"
+    },
+    "709540378": {
+      "id": 709540378,
+      "name": "特异供奉",
+      "class_name": "upgrade_non_player_bonus_sacrifice",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/cultist_sacrifice.png",
+      "sha256": "62a7079519a9ba5b9795734d64aea278c4aa36c596e8ae55bf124fa5196c953e"
+    },
+    "1248737459": {
+      "id": 1248737459,
+      "name": "拾弹能手",
+      "class_name": "upgrade_ammo_scavenger",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/ammo_scavenger.png",
+      "sha256": "2a7612ccb111bf1ba31995cc324893c1c7b7c54eadad6a696218f40b976490df"
+    },
+    "3535785353": {
+      "id": 3535785353,
+      "name": "upgrade_clip_size_fixed",
+      "class_name": "upgrade_clip_size_fixed",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/clip_size.png",
+      "sha256": "54518dd4f1943c070621cb1adf76c5e6514b2529e740d2b7ba335b23b5c0913f"
+    },
+    "2861048274": {
+      "id": 2861048274,
+      "name": "upgrade_clip_size_fixed_t3",
+      "class_name": "upgrade_clip_size_fixed_t3",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": null
+    },
+    "811521119": {
+      "id": 811521119,
+      "name": "特斯拉弹",
+      "class_name": "upgrade_chain_lightning",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/tesla_bullets.png",
+      "sha256": "0ff939601c4201e48c0563d0797084a4ceaac88a0729e1707b8b4f9c42fda696"
+    },
+    "710436191": {
+      "id": 710436191,
+      "name": "积雷电容",
+      "class_name": "upgrade_capacitor",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/capacitor.png",
+      "sha256": "895b96b59facf5c80e6728a92d9867e79a4374e5fd0d8a08a285693b7c6a273f"
+    },
+    "3316018900": {
+      "id": 3316018900,
+      "name": "upgrade_galvanic_storm",
+      "class_name": "upgrade_galvanic_storm",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/electrified_bullets.png",
+      "sha256": "2be4f94c600a35a813b7a04b4467fc14a1ce69633629b476ade50181b07d31be"
+    },
+    "2678489038": {
+      "id": 2678489038,
+      "name": "空尖弹",
+      "class_name": "upgrade_hollow_point_rounds",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/hollow_point.png",
+      "sha256": "33e053d544c111202e3aa4bca958044bc398075ef6c19e9534e31abc3a4af891"
+    },
+    "2064029594": {
+      "id": 2064029594,
+      "name": "先发强袭",
+      "class_name": "upgrade_pristine_emblem",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/opening_rounds.png",
+      "sha256": "cd7a462dc7fd9eb8e8d9acab2f764c2cd229f228d699f8797bc0207af109eada"
+    },
+    "1544322593": {
+      "id": 1544322593,
+      "name": "upgrade_stabilizer",
+      "class_name": "upgrade_stabilizer",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/stabilizer.png",
+      "sha256": "e257b4710603570299abdda862d466902049a3cf841dafb65949cc736a7c7ea6"
+    },
+    "3077079169": {
+      "id": 3077079169,
+      "name": "高速弹",
+      "class_name": "upgrade_high_velocity_mag",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/high_velocity_rounds.png",
+      "sha256": "22c9ce1fc4b21150be2bec367ae6917b34a890becf8daab2e6ab831b6e7b425c"
+    },
+    "1437614329": {
+      "id": 1437614329,
+      "name": "近战疗法",
+      "class_name": "upgrade_lifestrike_gauntlets",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/melee_lifesteal.png",
+      "sha256": "97237719f308c3ccbfe573dd6d06cf394dd395f3c47598b62171d42a0f50d580"
+    },
+    "4204808176": {
+      "id": 4204808176,
+      "name": "对等还击",
+      "class_name": "upgrade_melee_rebuttal",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/rebuttal.png",
+      "sha256": "46165c0b721720ed3d6d1e2cfbcc17285dcba4ff97a2e626430ec70ff8f6af26"
+    },
+    "1414025773": {
+      "id": 1414025773,
+      "name": "法术反制",
+      "class_name": "upgrade_counterspell",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/counterspell.png",
+      "sha256": "3a3a098a96c187c89281811d62ec2ac8702c83e23167c51cfa3f590d94a19be9"
+    },
+    "3791587546": {
+      "id": 3791587546,
+      "name": "重压射击",
+      "class_name": "upgrade_weighted_shots",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/weighted_shots.png",
+      "sha256": "36cb85628896cd2cff26343c4f87e7009fb72cb346583612213e1c3ecbdcd564"
+    },
+    "4238249888": {
+      "id": 4238249888,
+      "name": "远古战盾",
+      "class_name": "upgrade_ancient_shield",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/ancient_shielding.png",
+      "sha256": "832bef45be8784578509288553f8334ff5958a7aeed4682f32ad24c03e4f1887"
+    },
+    "1342610602": {
+      "id": 1342610602,
+      "name": "近身决斗",
+      "class_name": "upgrade_close_range",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/close_quarters.png",
+      "sha256": "151ba4d7d56fe5ee538d2e204ab7c0d63a357b041a72de21095213a3d6430842"
+    },
+    "3331811235": {
+      "id": 3331811235,
+      "name": "远击威力",
+      "class_name": "upgrade_long_range",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/long_range.png",
+      "sha256": "35661e2897d8e0a419024c3d5b91451f68416e3734241723879b1d57fd8ca544"
+    },
+    "393974127": {
+      "id": 393974127,
+      "name": "减速弹",
+      "class_name": "upgrade_slowing_bullets",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/slowing_bullets.png",
+      "sha256": "0bbdc65db92df3d648727c1b63971d8aff29683f4efb01059f6701bc07c0b7a4"
+    },
+    "2037039379": {
+      "id": 2037039379,
+      "name": "抑制术",
+      "class_name": "upgrade_inhibitor",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/inhibitor.png",
+      "sha256": "759e1c8e13f614b24939ac776f41935abdc81373c97a126b60e17c6f952694cc"
+    },
+    "1889400890": {
+      "id": 1889400890,
+      "name": "upgrade_small_attack_speed",
+      "class_name": "upgrade_small_attack_speed",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/fire_rate_plus.png",
+      "sha256": "48e7b300d8a851a49e122b3ed45f97260691b836e0f7432eef74a2f58d8327a0"
+    },
+    "1144549437": {
+      "id": 1144549437,
+      "name": "碎灵子弹",
+      "class_name": "upgrade_tech_defense_shredders",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/spirit_shredder_bullets.png",
+      "sha256": "5ba3793df4076835ab577465efd6a239fefe31a1c8a681c8a428e330aee3fede"
+    },
+    "1109351073": {
+      "id": 1109351073,
+      "name": "upgrade_attack_speed_1",
+      "class_name": "upgrade_attack_speed_1",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/fire_rate_plus.png",
+      "sha256": "48e7b300d8a851a49e122b3ed45f97260691b836e0f7432eef74a2f58d8327a0"
+    },
+    "1100809516": {
+      "id": 1100809516,
+      "name": "upgrade_nearby_enemy_boost",
+      "class_name": "upgrade_nearby_enemy_boost",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/adrenaline_rush.png",
+      "sha256": "d73233123f240b26e68f3eba801351aa6f23c3e67e07925b69e6b96eb594a2f7"
+    },
+    "2108215830": {
+      "id": 2108215830,
+      "name": "英雄光环",
+      "class_name": "upgrade_dps_aura",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/heroic_aura.png",
+      "sha256": "9322cb562216f9c6af2bd68ccf8634eb9018ec8e6a03394cdb641873a48fe049"
+    },
+    "775925321": {
+      "id": 775925321,
+      "name": "upgrade_weapon_detention_ammo",
+      "class_name": "upgrade_weapon_detention_ammo",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/detention_rounds.png",
+      "sha256": "24d28624afe64a1af14dbfaa5aade5c1dea6cdcf22ce3f1bb3151d7d70e7eb02"
+    },
+    "619484391": {
+      "id": 619484391,
+      "name": "沉默之潮",
+      "class_name": "upgrade_targeted_silence",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/silence_glyph.png",
+      "sha256": "3a38d9a10d97a77f995831c0c76bfae89886b1550e410a6a26371bcdd655c429"
+    },
+    "3927044172": {
+      "id": 3927044172,
+      "name": "作祟尖叫",
+      "class_name": "upgrade_haunting_scream",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/haunting_scream.png",
+      "sha256": "cd70de629f9d9df8c59288b1a4013e63bf60e358d9d7c9333cc0cdda4c56fbc7"
+    },
+    "1113837674": {
+      "id": 1113837674,
+      "name": "沉默子弹",
+      "class_name": "upgrade_proc_silence",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/silencer.png",
+      "sha256": "92f914763ecb73d8ac02b61c29da6eda4b147ac991079a243e39c0d3a3a8f34e"
+    },
+    "3133167885": {
+      "id": 3133167885,
+      "name": "沉默子弹",
+      "class_name": "upgrade_silencer",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/silencer.png",
+      "sha256": "92f914763ecb73d8ac02b61c29da6eda4b147ac991079a243e39c0d3a3a8f34e"
+    },
+    "1503218332": {
+      "id": 1503218332,
+      "name": "upgrade_proc_disarm",
+      "class_name": "upgrade_proc_disarm",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/disarm.png",
+      "sha256": "8ead2401c51c592f32e46b9021053761f422b001890865397b3c1357f4f122f7"
+    },
+    "1414319208": {
+      "id": 1414319208,
+      "name": "狂战士",
+      "class_name": "upgrade_berserker",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/berserker.png",
+      "sha256": "3ce38be400dff58845b8823666c78b8c2e052bf24d0d59ede485c71be4a3fef4"
+    },
+    "339443430": {
+      "id": 339443430,
+      "name": "狂乱",
+      "class_name": "upgrade_fervor",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/frenzy.png",
+      "sha256": "b7df8c9702d138e6b687343938ac666ad50ad7d169e045d4765bae53d5e9eafd"
+    },
+    "1282141666": {
+      "id": 1282141666,
+      "name": "虹吸弹",
+      "class_name": "upgrade_siphon_bullets",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/siphon_bullets.png",
+      "sha256": "1ddc088622e0095a70c604387c2c873b5b47938b3de6668cb048bec4e0627de3"
+    },
+    "2010028405": {
+      "id": 2010028405,
+      "name": "头弹奖励",
+      "class_name": "upgrade_headshot_booster",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/headshot_booster.png",
+      "sha256": "1a4e65cc5db1311522d269a605dcab5e4e48ab208294a847d2cd1ebe38490033"
+    },
+    "1770441818": {
+      "id": 1770441818,
+      "name": "头弹弱防",
+      "class_name": "upgrade_headshot_booster2",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/weakening_headshot.png",
+      "sha256": "1e957a262e2ef4f912ebb240db4c0048836953c36b8ca70f2a5d0d3cf1d20732"
+    },
+    "2152872419": {
+      "id": 2152872419,
+      "name": "弹无虚发",
+      "class_name": "upgrade_sharpshooter",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/sharp_shooter.png",
+      "sha256": "536f7c301c530c2d04ddf0b628e1fcc6f6976b1483e56c95191f6a1e94d4eb48"
+    },
+    "4053935515": {
+      "id": 4053935515,
+      "name": "猎头",
+      "class_name": "upgrade_headhunter",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/headhunter.png",
+      "sha256": "8840a70e56acf87e1390764a1890199808f1e08683715ce992210d2251eb62a5"
+    },
+    "4075861416": {
+      "id": 4075861416,
+      "name": "元灵撕裂",
+      "class_name": "upgrade_spellslinger_headshots",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/spellslinger_headshots.png",
+      "sha256": "88711c16af65eadbf9398a73d8b066ab182e0a4f7f39afe849013f2f7c45c801"
+    },
+    "3884003354": {
+      "id": 3884003354,
+      "name": "头弹破防",
+      "class_name": "upgrade_banshee_slugs",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/crippling_headshot.png",
+      "sha256": "0f5c2eefc89bdcc58c6cec10766af83d557452dd4156c4e8865186d2103f905a"
+    },
+    "184951197": {
+      "id": 184951197,
+      "name": "upgrade_proc_tech_damage",
+      "class_name": "upgrade_proc_tech_damage",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_imbued_bullets.png",
+      "sha256": "35feb712fee930b5e4b3f45f13df477268ac7357e13e9bcdb02ad6139ed78ed5"
+    },
+    "395867183": {
+      "id": 395867183,
+      "name": "秘术射击",
+      "class_name": "upgrade_crackshot",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/mystic_shot.png",
+      "sha256": "097fb3620974be52621fe0ec7aa384e9b72692666577a131ff0ee570d6579a5f"
+    },
+    "1396247347": {
+      "id": 1396247347,
+      "name": "幸运一击",
+      "class_name": "upgrade_critshot",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/lucky_shot.png",
+      "sha256": "5994b20dfa91e8266e8e0e20164445d1505447168a0bb93e1254291cbe674fe3"
+    },
+    "2095565695": {
+      "id": 2095565695,
+      "name": "近身猛击",
+      "class_name": "upgrade_close_quarter_combat",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/point_blank.png",
+      "sha256": "50dcba5d5b2826c55c62284b247c84d0d7b493cf0a998505910fdad1ad7aae61"
+    },
+    "4284855775": {
+      "id": 4284855775,
+      "name": "upgrade_clip_size_2",
+      "class_name": "upgrade_clip_size_2",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": null
+    },
+    "3449296332": {
+      "id": 3449296332,
+      "name": "upgrade_clip_size_3",
+      "class_name": "upgrade_clip_size_3",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": null
+    },
+    "3696726732": {
+      "id": 3696726732,
+      "name": "毒弹",
+      "class_name": "upgrade_toxic_bullets",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/toxic_bullets.png",
+      "sha256": "fde58bf2d4839f09628d61a3e7c153d864e4f3583865d39433f1d609638f67a4"
+    },
+    "3791295884": {
+      "id": 3791295884,
+      "name": "upgrade_attack_speed_2",
+      "class_name": "upgrade_attack_speed_2",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/fire_rate_plus_plus.png",
+      "sha256": "61c1cb7aabd04fc6ce1427dd2aab8c1661cb9ae8d8928ccaae3f4b9247fecec9"
+    },
+    "4190165534": {
+      "id": 4190165534,
+      "name": "upgrade_drum_magazine",
+      "class_name": "upgrade_drum_magazine",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/auto_reloader.png",
+      "sha256": "df3dce82e0b19b77490fdc21e86c80a290738a638c577d5256b42827438ead20"
+    },
+    "2480592370": {
+      "id": 2480592370,
+      "name": "跳弹射击",
+      "class_name": "upgrade_ricochet",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/ricochet.png",
+      "sha256": "1aae5ff9f5367c953139f6ca23781da7190338958efb6663cde8e9bdb10552c6"
+    },
+    "4149380528": {
+      "id": 4149380528,
+      "name": "巅峰之战",
+      "class_name": "upgrade_apex_combat",
+      "item_slot_type": "weapon",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/apex_combat.png",
+      "sha256": "daf7316ce8968110c4b234a1690bd66a8bafe78cc3417b64164a2985e7408628"
+    },
+    "3633614685": {
+      "id": 3633614685,
+      "name": "额外生命",
+      "class_name": "upgrade_health",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/extra_health.png",
+      "sha256": "2d383fcdf19f9454c081ee5d25118919ba0d94aa6ca69e9742ee08bf0cb0d054"
+    },
+    "2858617477": {
+      "id": 2858617477,
+      "name": "坚韧",
+      "class_name": "upgrade_health_2",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/health.png",
+      "sha256": "572227ea56dcc7bb670ffcc3a71ad0a8b947d6f1ed7710f68db7736d90c3ee73"
+    },
+    "1448361452": {
+      "id": 1448361452,
+      "name": "upgrade_toughness_3",
+      "class_name": "upgrade_toughness_3",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/health.png",
+      "sha256": "572227ea56dcc7bb670ffcc3a71ad0a8b947d6f1ed7710f68db7736d90c3ee73"
+    },
+    "3713423303": {
+      "id": 3713423303,
+      "name": "子弹护甲",
+      "class_name": "upgrade_bullet_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/bullet_resilience.png",
+      "sha256": "4b87a2a0578af4611811b9d193264c89ff23c057b9d00111fe2fa795dc8b9e6b"
+    },
+    "223594321": {
+      "id": 223594321,
+      "name": "元灵护甲",
+      "class_name": "upgrade_tech_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/spirit_resilience.png",
+      "sha256": "fc49646d8241becb00b85a54f19b192f594fc234dd97ac70ef76d1373f85f403"
+    },
+    "1575167590": {
+      "id": 1575167590,
+      "name": "upgrade_health_regen_1",
+      "class_name": "upgrade_health_regen_1",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/health_regen.png",
+      "sha256": "f7b2dca313eb3b2d20d95689e02c47fa9db4130025848c787428a9b49805caf9"
+    },
+    "499683006": {
+      "id": 499683006,
+      "name": "子弹回复",
+      "class_name": "upgrade_vampire",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/bullet_lifesteal.png",
+      "sha256": "af99ced00af6f21e61532c5c578366fa94ed7e6649abbc1ba56c7ff10feec37a"
+    },
+    "790496977": {
+      "id": 790496977,
+      "name": "upgrade_double_jump",
+      "class_name": "upgrade_double_jump",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/double_jump.png",
+      "sha256": "6cb1f5f22843d75658f654c0357481648fe25939886993fb972f277c7a7db4fd"
+    },
+    "3321728133": {
+      "id": 3321728133,
+      "name": "upgrade_health_regen_aura",
+      "class_name": "upgrade_health_regen_aura",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/health_regen_aura.png",
+      "sha256": "68f34594cabedf75a24bf7de5b059862b6eff0d07a9336d69757d2d6615f33d1"
+    },
+    "1047818222": {
+      "id": 1047818222,
+      "name": "减益缩短",
+      "class_name": "upgrade_debuff_reducer",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/debuff_reducer.png",
+      "sha256": "e28b056ffe15152d3419bd76ecc93a27bf3757d7aacf3834f005c79560493ea9"
+    },
+    "3731635960": {
+      "id": 3731635960,
+      "name": "驱散魔法",
+      "class_name": "upgrade_reduce_debuff_duration",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/debuff_remover.png",
+      "sha256": "b9ae6810d722bc1f31e61d6223b6e647e8c8ff32f45e40ec96856460178d98cb"
+    },
+    "1825391146": {
+      "id": 1825391146,
+      "name": "upgrade_high_impact_armor",
+      "class_name": "upgrade_high_impact_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/bullet_armor.png",
+      "sha256": "ae25d35260f2f5e2eb7f6cf3d4a4ffefaed3c8b939977cbe6ce9721ed7a29ee9"
+    },
+    "1711193274": {
+      "id": 1711193274,
+      "name": "upgrade_slow_immunity",
+      "class_name": "upgrade_slow_immunity",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/sprint_booster.png",
+      "sha256": "1ae5a1c658ba331ffb2abdf19050543326884076b25325dbee65c9f639c8a944"
+    },
+    "471704443": {
+      "id": 471704443,
+      "name": "upgrade_weapon_power_and_health_drain",
+      "class_name": "upgrade_weapon_power_and_health_drain",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/overdrive.png",
+      "sha256": "8b8688501cd9c334f09d372e764f93e52efe77edaae961ad044ddc7ec02c9775"
+    },
+    "1319649491": {
+      "id": 1319649491,
+      "name": "upgrade_active_bullet_shield",
+      "class_name": "upgrade_active_bullet_shield",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/bullet_shield.png",
+      "sha256": "b25a0f8fde60d499cc0f43a338510a5f4f2cb415c658253e2b207e28263116ea"
+    },
+    "2163598980": {
+      "id": 2163598980,
+      "name": "元灵护体",
+      "class_name": "upgrade_tech_purge",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/spirit_resilience.png",
+      "sha256": "fc49646d8241becb00b85a54f19b192f594fc234dd97ac70ef76d1373f85f403"
+    },
+    "3140772621": {
+      "id": 3140772621,
+      "name": "子弹坚甲",
+      "class_name": "upgrade_improved_bullet_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/bullet_resilience.png",
+      "sha256": "4b87a2a0578af4611811b9d193264c89ff23c057b9d00111fe2fa795dc8b9e6b"
+    },
+    "1378931225": {
+      "id": 1378931225,
+      "name": "铜皮铁骨",
+      "class_name": "upgrade_metal_skin",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/metal_skin.png",
+      "sha256": "cf71c5a2b6db53c4f7ffa881a9c2f0893bf92a0c03e582f700ef6ea824ee7181"
+    },
+    "2566692615": {
+      "id": 2566692615,
+      "name": "治疗强化",
+      "class_name": "upgrade_healing_booster",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/healing_booster.png",
+      "sha256": "e6f39b7bda6e93e23bef9905e3fe733cc9d4445d15b2a030c408148dbd969193"
+    },
+    "3585132399": {
+      "id": 3585132399,
+      "name": "坚毅之心",
+      "class_name": "upgrade_chonky",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/fortitude.png",
+      "sha256": "55a44329c3e6784063084eda86a28c392049638f9678c6611dd077380aa252ab"
+    },
+    "865846625": {
+      "id": 865846625,
+      "name": "赤蟥",
+      "class_name": "upgrade_damage_recycler",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/leech.png",
+      "sha256": "1f47913f9be2864131a72f49a934b0b9948b3276635a91f3ff25b1d875805b33"
+    },
+    "1298427343": {
+      "id": 1298427343,
+      "name": "upgrade_bullet_damage_reduction_aura",
+      "class_name": "upgrade_bullet_damage_reduction_aura",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/weapon_jammer.png",
+      "sha256": "2285faa258d9ba23498ff16aefd9169dc0a0d7da8eba4da2a7d4d444fcd896fd"
+    },
+    "3399065363": {
+      "id": 3399065363,
+      "name": "疾跑靴",
+      "class_name": "upgrade_sprint_booster",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/sprint_boots.png",
+      "sha256": "813c74f05965588fd274008e67d76d86ca872fbf6ddd11a3a33c30488682ae79"
+    },
+    "3074274290": {
+      "id": 3074274290,
+      "name": "寻猎季节",
+      "class_name": "upgrade_trophy_collector",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/trophy_collector.png",
+      "sha256": "f5874630471517bc2c9dd03de3e1c1cb636e671c1932c04fce83db863a2e1636"
+    },
+    "2447176615": {
+      "id": 2447176615,
+      "name": "疾速不怠",
+      "class_name": "upgrade_cardio_calibrator",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/enduring_speed.png",
+      "sha256": "2c2d46e390653bc507f31713b4a2bb2f1a597c3ae2df777b06f263d835c20541"
+    },
+    "334300056": {
+      "id": 334300056,
+      "name": "跑酷大师",
+      "class_name": "upgrade_superior_stamina",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/stamina_mastery.png",
+      "sha256": "1f8167c13a101adf9c8aa97ae2114b231dc1b045c072c5dec694bc476e491a58"
+    },
+    "564937160": {
+      "id": 564937160,
+      "name": "空中霸权",
+      "class_name": "upgrade_aerial_supremacy",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/aerial_mastery.png",
+      "sha256": "c42af9c19527c0fc43fc9a2ea7cabb4115fe79672f1db99cb101b404413a3b3c"
+    },
+    "668299740": {
+      "id": 668299740,
+      "name": "快手连发",
+      "class_name": "upgrade_rapid_rounds",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/rapid_rounds.png",
+      "sha256": "293bc43962be704bdf3d32c9eca3fc2e5808048258b0c0089152ceb750c7ac5f"
+    },
+    "4139877411": {
+      "id": 4139877411,
+      "name": "耐力补给",
+      "class_name": "upgrade_improved_stamina",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/extra_stamina.png",
+      "sha256": "81e52d851e6f5447dde5855dd138f64ecd256fd8884207190dc1c6da402a9f24"
+    },
+    "2481177645": {
+      "id": 2481177645,
+      "name": "猎人光环",
+      "class_name": "upgrade_bullet_armor_reduction_aura",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/hunters_aura.png",
+      "sha256": "a21288dec60848deba39bbe7d49ef1eab3cea22df817692659369ee31dc5de7d"
+    },
+    "1962740586": {
+      "id": 1962740586,
+      "name": "upgrade_camouflage",
+      "class_name": "upgrade_camouflage",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/camouflage_suit.png",
+      "sha256": "e2894420228cbd574d2026491ce2d26e27d568e2c1e310dc278ef3c531edff17"
+    },
+    "3038950099": {
+      "id": 3038950099,
+      "name": "upgrade_regenerative_armor",
+      "class_name": "upgrade_regenerative_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/last_stand.png",
+      "sha256": "f988fbd023d2e4c8057179a06ae25930d2bf7b021532adc960da4e2a8664e3c1"
+    },
+    "1672893796": {
+      "id": 1672893796,
+      "name": "刚毅",
+      "class_name": "upgrade_grit",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/grit.png",
+      "sha256": "1c1742eb202e3aee2bd927c5a5cbae75ba122e6b084b62a13cef056f9f47b76d"
+    },
+    "805079544": {
+      "id": 805079544,
+      "name": "武器防护",
+      "class_name": "upgrade_weapon_shielding",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/weapon_shielding.png",
+      "sha256": "6980330d04a7674cb4fabd79e90436448cc901eca126850c7e6f16d3a07a4cba"
+    },
+    "112198670": {
+      "id": 112198670,
+      "name": "元灵防护",
+      "class_name": "upgrade_spirit_bubble",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/spirit_shielding.png",
+      "sha256": "2d94b98207866a3581b8d29cd3ab878705e9a48e1ec6f57a2448a4355a084de8"
+    },
+    "1235347618": {
+      "id": 1235347618,
+      "name": "战斗背心",
+      "class_name": "upgrade_regenerating_bullet_shield",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/battle_vest.png",
+      "sha256": "6c2ea234fef25fcb4a3bf4df3c431744062a178a23fc17d71c279edc4d59e434"
+    },
+    "3970837787": {
+      "id": 3970837787,
+      "name": "附魔师纹章",
+      "class_name": "upgrade_magic_shield",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/enchanters_emblem.png",
+      "sha256": "eab9b45fbd7695a338b3d8f24ee0684e084aaec993ae8e9682c27d0d43b28ad9"
+    },
+    "968099481": {
+      "id": 968099481,
+      "name": "灵力扩增",
+      "class_name": "upgrade_improved_spirit",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/extra_spirit.png",
+      "sha256": "2eda66328fe00d3c1623b39c5950f42eb0e54b5bdffd4bd7c5a6e0c9a4464fdd"
+    },
+    "1439347412": {
+      "id": 1439347412,
+      "name": "秘术愈疗",
+      "class_name": "upgrade_mystic_regeneration",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_regen.png",
+      "sha256": "2b3bd154a5de26f5cb2c954da192c7114d9e9f634dcdfd5f351dc9468b24c257"
+    },
+    "7409189": {
+      "id": 7409189,
+      "name": "灵力高涨",
+      "class_name": "upgrade_soaring_spirit",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/improved_spirit.png",
+      "sha256": "fb5ea6a3f394af72f1059980a1f162b4c8d3485420ffa7f10e192c09a7a2b931"
+    },
+    "2226497419": {
+      "id": 2226497419,
+      "name": "元灵漫溢",
+      "class_name": "upgrade_tech_overflow",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/spiritual_overflow.png",
+      "sha256": "7b8a62cd6693900574a58098447b47dcec64cde6d2160f7cbcef768d3dcd6cc8"
+    },
+    "3361075077": {
+      "id": 3361075077,
+      "name": "回应射击",
+      "class_name": "upgrade_return_fire",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/return_fire.png",
+      "sha256": "cd63627beb26508354a45b743b42710d9bfe9432bb843cfa856d5f9f6e42fd3c"
+    },
+    "1193964439": {
+      "id": 1193964439,
+      "name": "强效扩张",
+      "class_name": "upgrade_tech_range",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/greater_expansion.png",
+      "sha256": "80161568a0b8c77bdcf9923acfbaa291f033ae05f35537bba7c36e6271929505"
+    },
+    "754480263": {
+      "id": 754480263,
+      "name": "秘术扩张",
+      "class_name": "upgrade_magic_reach",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_reach.png",
+      "sha256": "15950f41931f884faadcf50859afe25ab7e751c59252c99f34b40e615ce87e3b"
+    },
+    "3776945997": {
+      "id": 3776945997,
+      "name": "额外充能",
+      "class_name": "upgrade_extra_charge",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/extra_charge.png",
+      "sha256": "abb6fc8e61bab0e7ab8c6f2f613b76dfb1817ca914053b10d3cac0e8d0726b9c"
+    },
+    "876563814": {
+      "id": 876563814,
+      "name": "元灵吸收",
+      "class_name": "upgrade_health_stealing_magic",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/spirit_lifesteal.png",
+      "sha256": "593d9bcef14c06c22457b97fe1546db5046ac3a17ac5c41b802b0c2cb5f1400e"
+    },
+    "2645639421": {
+      "id": 2645639421,
+      "name": "upgrade_disarm",
+      "class_name": "upgrade_disarm",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/disarm.png",
+      "sha256": "8ead2401c51c592f32e46b9021053761f422b001890865397b3c1357f4f122f7"
+    },
+    "2971868509": {
+      "id": 2971868509,
+      "name": "粉碎护甲",
+      "class_name": "upgrade_bullet_resist_shredder",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/bullet_resist_shredder.png",
+      "sha256": "c141552dac8434fabc6ed6110e9ec7806da55ec120037b7bee1fbabb5bd1403b"
+    },
+    "3577481646": {
+      "id": 3577481646,
+      "name": "秘术余波",
+      "class_name": "upgrade_mystic_reverb",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_reverb.png",
+      "sha256": "9582742ae77a497cbe13caa8fc9fd9f1539dd8912424127c8dd3e88ab573f902"
+    },
+    "1998374645": {
+      "id": 1998374645,
+      "name": "秘术爆发",
+      "class_name": "upgrade_magic_burst",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_burst.png",
+      "sha256": "878468d193a9ae6a2c6317aff3c41ff8587fc989dfff529e88346a9ec357bcc1"
+    },
+    "2121044373": {
+      "id": 2121044373,
+      "name": "重装克星",
+      "class_name": "upgrade_magic_shock",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/tankbuster.png",
+      "sha256": "f64adc4b98e5a780bc43833cff56a7d6bbbc162b10669184bf2b3cfa2edaf22b"
+    },
+    "1052584266": {
+      "id": 1052584266,
+      "name": "upgrade_arcane_medallion",
+      "class_name": "upgrade_arcane_medallion",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/arcane_medallion.png",
+      "sha256": "e88047d637590525409b9ad01402abd8c4c778d6b28fb9c239e0429a139ee68b"
+    },
+    "2081037738": {
+      "id": 2081037738,
+      "name": "秘术脆弱",
+      "class_name": "upgrade_magic_vulnerability",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_vulnerability.png",
+      "sha256": "5fd052bb38d1ff83e90219896e89d98190cb958ba5460cba4ed486f20ba5fb9c"
+    },
+    "2603935618": {
+      "id": 2603935618,
+      "name": "不治魔咒",
+      "class_name": "upgrade_healbane",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/healbane.png",
+      "sha256": "04439d4257bad226ce7bf09d08aafa686168a6c06987427a02dad441bf75b1d2"
+    },
+    "1102081447": {
+      "id": 1102081447,
+      "name": "秘术缓速",
+      "class_name": "upgrade_magic_slow",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mystic_slow.png",
+      "sha256": "66210d1f1c70cdf794cccd5b1071898549235bbcbc4c861639a88b14356e8e82"
+    },
+    "3005970438": {
+      "id": 3005970438,
+      "name": "伤上加伤",
+      "class_name": "upgrade_escalating_exposure",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/escalating_exposure.png",
+      "sha256": "c640abce00f857a818b158564cb1c21e290d0ee9e7979ccb33bd82e0e1bc4c10"
+    },
+    "787198704": {
+      "id": 787198704,
+      "name": "火速充能",
+      "class_name": "upgrade_rapid_recharge",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/rapid_recharge.png",
+      "sha256": "e79e4b4f199fb172d021c37ab71caed4a42c830ad5d51571812609922b210831"
+    },
+    "424779525": {
+      "id": 424779525,
+      "name": "跃升之印",
+      "class_name": "upgrade_omnicharge_pendant",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/omnicharge_pendant.png",
+      "sha256": "5473a04d13f8c2a9217d2e9092b6844fd0fec6add634ed669c9208b75ff0d242"
+    },
+    "380806748": {
+      "id": 380806748,
+      "name": "冷却压缩",
+      "class_name": "upgrade_magic_tempo",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/improved_cooldown.png",
+      "sha256": "3c0991f4edadea2e084a73474f99c1bfaeae4f51d3db893cc3ca9450188cb470"
+    },
+    "3261353684": {
+      "id": 3261353684,
+      "name": "超速冷却",
+      "class_name": "upgrade_cooldown_reduction",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/superior_cooldown.png",
+      "sha256": "603836ee1d9cf81ae3345a8b8aa292e8d499265e5372f1b432146c9298313a82"
+    },
+    "915014646": {
+      "id": 915014646,
+      "name": "超凡冷却",
+      "class_name": "upgrade_transcendent_cooldown",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/transcendent_cooldown.png",
+      "sha256": "23c4ae8cedb0e8bdd675abe70a43e0913200494abf0c0d747bcb7390d3e0faf4"
+    },
+    "3893702034": {
+      "id": 3893702034,
+      "name": "永恒纹章",
+      "class_name": "upgrade_timeless_emblem",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/timeless_emblem.png",
+      "sha256": "ad9dde0a3c863e7d0f4df1cff30a34803cc03fbaba890e61a029efb1373d9714"
+    },
+    "3456645009": {
+      "id": 3456645009,
+      "name": "幽影瞬步",
+      "class_name": "upgrade_shadow_step",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/shadow_step.png",
+      "sha256": "876bd200da4064b6fae68c6b7bb1efc7f4d3e217d2c3c2f22c4a25470990c689"
+    },
+    "3789823638": {
+      "id": 3789823638,
+      "name": "upgrade_duration_extender",
+      "class_name": "upgrade_duration_extender",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_duration_extender.png",
+      "sha256": "8bff472230613421c01002e8aebcf7cf64546f654edafbc50ee233a9b1800b46"
+    },
+    "3013879715": {
+      "id": 3013879715,
+      "name": "upgrade_slowing_tech",
+      "class_name": "upgrade_slowing_tech",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/slowing_tech.png",
+      "sha256": "3e40af73e3dd6303529df25dc5427585198fda3246780ff024050e4a88f4c8bc"
+    },
+    "1813726886": {
+      "id": 1813726886,
+      "name": "减速魔咒",
+      "class_name": "upgrade_containment",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/slowing_hex.png",
+      "sha256": "71cf6b89368571edd2b3bc4666e39eb0630995c94c16567c351bdd0dea90079c"
+    },
+    "1219329868": {
+      "id": 1219329868,
+      "name": "元灵衰竭",
+      "class_name": "upgrade_spirit_sap",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/spirit_sap.png",
+      "sha256": "179a4e257ca5b379133c7875b9a01cc2575ed8efed0783d6e4dc957024515c10"
+    },
+    "2142980412": {
+      "id": 2142980412,
+      "name": "聚焦透镜",
+      "class_name": "upgrade_focus_lens",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/focus_lens.png",
+      "sha256": "db44adcd3b1ad376bf4800ce854f88d78b29e5bae6801b72555077ff6f49ff3b"
+    },
+    "2922054143": {
+      "id": 2922054143,
+      "name": "锈蚀枪管",
+      "class_name": "upgrade_withering_whip",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/rusted_barrel.png",
+      "sha256": "77f4742a3bab344916de86d124d3ca35f36d4d8c9dbf1d837619469788e4a964"
+    },
+    "2061878743": {
+      "id": 2061878743,
+      "name": "缴械魔咒",
+      "class_name": "upgrade_greater_withering_whip",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/disarming_hex.png",
+      "sha256": "ed0afc376cf5026bb324e1435554cf801d0639e9d9456a92ad2aec834dfbfcb3"
+    },
+    "1804594021": {
+      "id": 1804594021,
+      "name": "营救光束",
+      "class_name": "upgrade_rescue_beam",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/rescue_beam.png",
+      "sha256": "6120fa0cea3f790933dc63c0e5483cd4fe436fa515161096c7d7070e7455ef97"
+    },
+    "2329546537": {
+      "id": 2329546537,
+      "name": "重生",
+      "class_name": "upgrade_personal_rejuvenator",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/rebirth.png",
+      "sha256": "a93ee2c09aa875197076e8988767dcce31261f95a87f5dbd7e1143e9ac2ae19c"
+    },
+    "4003032160": {
+      "id": 4003032160,
+      "name": "原地复活",
+      "class_name": "upgrade_rebirth",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/rebirth.png",
+      "sha256": "a93ee2c09aa875197076e8988767dcce31261f95a87f5dbd7e1143e9ac2ae19c"
+    },
+    "1993213427": {
+      "id": 1993213427,
+      "name": "upgrade_long_range_slowing_tech",
+      "class_name": "upgrade_long_range_slowing_tech",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_range.png",
+      "sha256": "84da2c17820f7b5ecd0bb2ecc461fb0fc1856fb372fce2a76a25556b880c1bed"
+    },
+    "3064545951": {
+      "id": 3064545951,
+      "name": "upgrade_full_spectrum",
+      "class_name": "upgrade_full_spectrum",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_range.png",
+      "sha256": "84da2c17820f7b5ecd0bb2ecc461fb0fc1856fb372fce2a76a25556b880c1bed"
+    },
+    "4249800570": {
+      "id": 4249800570,
+      "name": "upgrade_tech_cleave",
+      "class_name": "upgrade_tech_cleave",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/quantum_chimaera.png",
+      "sha256": "580afb1f2889abb712e890112a279058f20b7bee6b35896e85b8f50b0817216d"
+    },
+    "1288322878": {
+      "id": 1288322878,
+      "name": "upgrade_bonus_ability_charge_3",
+      "class_name": "upgrade_bonus_ability_charge_3",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/extra_charge.png",
+      "sha256": "3c4a86d0d178bd0d33e0f01ac2e21600a76daa0e37c7ec57469f5a698720fbfc"
+    },
+    "4245766497": {
+      "id": 4245766497,
+      "name": "upgrade_charge_mastery",
+      "class_name": "upgrade_charge_mastery",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/extra_charge.png",
+      "sha256": "3c4a86d0d178bd0d33e0f01ac2e21600a76daa0e37c7ec57469f5a698720fbfc"
+    },
+    "3144988365": {
+      "id": 3144988365,
+      "name": "衰变",
+      "class_name": "upgrade_rupture",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/decay.png",
+      "sha256": "36722161c348c69982ce15437860dbd1a57df9d28db7051b6e31619fee23a18e"
+    },
+    "2417568017": {
+      "id": 2417568017,
+      "name": "敌之灾患",
+      "class_name": "upgrade_discord",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/scourge.png",
+      "sha256": "1a00e57ae39c2f85f02746e361eb1fa70594dc1f882cf8589f89c0049deb22e5"
+    },
+    "776145721": {
+      "id": 776145721,
+      "name": "upgrade_aoe_tech_shield",
+      "class_name": "upgrade_aoe_tech_shield",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_shield_pulse.png",
+      "sha256": "36a56087dd3f117e120849f26ab409a6221731bf76831fbe593677b5a2306dbf"
+    },
+    "1254091416": {
+      "id": 1254091416,
+      "name": "天锤压顶",
+      "class_name": "upgrade_target_stun",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/knockdown.png",
+      "sha256": "b859109802e6cd363851a238f235190caee2b389b2bed5611fb5ad865ee90ae5"
+    },
+    "1371725689": {
+      "id": 1371725689,
+      "name": "幻影突袭",
+      "class_name": "upgrade_phantom_strike",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/phantom_strike.png",
+      "sha256": "71c6c54fdad5b16dac39e6299410a437b5bbea9b89e52a3af781199515daf889"
+    },
+    "3270001687": {
+      "id": 3270001687,
+      "name": "传送石",
+      "class_name": "upgrade_warp_stone",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/warp_stone.png",
+      "sha256": "f443c82d30a22e2b76ed8e880c1726cb657d19c9b433e279fe5b3047e54341bb"
+    },
+    "1152158042": {
+      "id": 1152158042,
+      "name": "雷织漩涡",
+      "class_name": "upgrade_aoe_root",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/vortex_web.png",
+      "sha256": "82ec387d9946b178597890d9e52a038a1e36d56ff081b76ba1e5a3027314e431"
+    },
+    "677738769": {
+      "id": 677738769,
+      "name": "刷新环",
+      "class_name": "upgrade_ability_refresher",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/refresher.png",
+      "sha256": "5dd06381c1c9052c3c46e75e549a3962dc1c8e7e22d729163bdb8a8f14377f05"
+    },
+    "630839635": {
+      "id": 630839635,
+      "name": "回音碎片",
+      "class_name": "upgrade_ability_power_shard",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/echo_shard.png",
+      "sha256": "6d1d575edc442bb79feae3504aa8cf5ec9ff52606c9a871eb1e2219ac888af7f"
+    },
+    "395944548": {
+      "id": 395944548,
+      "name": "痛苦脉冲",
+      "class_name": "upgrade_tech_damage_pulse",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/torment_pulse.png",
+      "sha256": "ec306566b192595386244e934f7a59b52de17c6b52c3cf190fe57ffb08f9e224"
+    },
+    "3361811174": {
+      "id": 3361811174,
+      "name": "幸免于难",
+      "class_name": "upgrade_cheat_death",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/cheat_death.png",
+      "sha256": "f1df038ad93807e22b05d2faaad9cf37217c3c0f727dad30567981b4a09bfa89"
+    },
+    "3276909180": {
+      "id": 3276909180,
+      "name": "upgrade_reload_speed",
+      "class_name": "upgrade_reload_speed",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/fast_reload.png",
+      "sha256": "c82f5075d99d718efde77dba661d2a5a25f1285c1a703cc080536c312c0110aa"
+    },
+    "2560018361": {
+      "id": 2560018361,
+      "name": "upgrade_cloaking_device",
+      "class_name": "upgrade_cloaking_device",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/cloaking_device.png",
+      "sha256": "628ad65c009ae64e59c2ce06d16829ff556d75f7585b3854e2f93794dead254a"
+    },
+    "1798666702": {
+      "id": 1798666702,
+      "name": "来去无踪",
+      "class_name": "upgrade_cloaking_device_active",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/shadow_weave.png",
+      "sha256": "5622edbfdb772df45a3b4b03423bed23b0c4378cd5a45ad5b5ce6a0cbc806c31"
+    },
+    "3662153307": {
+      "id": 3662153307,
+      "name": "upgrade_fire_rate_aura",
+      "class_name": "upgrade_fire_rate_aura",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/fire_rate_aura.png",
+      "sha256": "da76e4c53cebc5f247cfe8a866a0f5b14d9f911ae2f025c5506e9881529f146b"
+    },
+    "607292868": {
+      "id": 607292868,
+      "name": "upgrade_weapon_overdrive_clip",
+      "class_name": "upgrade_weapon_overdrive_clip",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/overdrive.png",
+      "sha256": "8b8688501cd9c334f09d372e764f93e52efe77edaae961ad044ddc7ec02c9775"
+    },
+    "3830846077": {
+      "id": 3830846077,
+      "name": "升空飞跃 - 已禁用",
+      "class_name": "upgrade_rocket_boots",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/springy_boots.png",
+      "sha256": "d67c94bac9987587c25b3bb8480b4cf65d36dcf62273a0d750bf319191f8cfe5"
+    },
+    "600033864": {
+      "id": 600033864,
+      "name": "升空飞跃",
+      "class_name": "upgrade_rocket_booster",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/majestic_leap.png",
+      "sha256": "bad73410e3e146c4018007698593f3c803d7204c60183e77a9d377ae4c6d5932"
+    },
+    "271801138": {
+      "id": 271801138,
+      "name": "upgrade_aerial_assault",
+      "class_name": "upgrade_aerial_assault",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/springy_boots.png",
+      "sha256": "d67c94bac9987587c25b3bb8480b4cf65d36dcf62273a0d750bf319191f8cfe5"
+    },
+    "2956256701": {
+      "id": 2956256701,
+      "name": "治疗之环",
+      "class_name": "upgrade_health_nova",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/healing_nova.png",
+      "sha256": "86d880db1db38951edea312a4314e61cc3570b8753302f3fc5f904c822458f27"
+    },
+    "2059712766": {
+      "id": 2059712766,
+      "name": "疗愈护符",
+      "class_name": "upgrade_restorative_locket",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/restorative_locket.png",
+      "sha256": "0cdb5bbd52ac3bd00607bcf034e205f6c05b7f58d449a46b058cdd8d09d06350"
+    },
+    "1710079648": {
+      "id": 1710079648,
+      "name": "治疗仪式",
+      "class_name": "upgrade_health_stimpak",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/healing_rite.png",
+      "sha256": "ee55fb4785bf0fdc6e5c75ef88eb351383f89e6a7f338c7a9e9677fb6ddb5b8b"
+    },
+    "4121584236": {
+      "id": 4121584236,
+      "name": "缩小射线",
+      "class_name": "upgrade_shrink_ray",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/shrink_ray.png",
+      "sha256": "b6088fdd528ea12eaea1266b4ab8e92c78dc32a58a03bd96dc70a3fa4129aad4"
+    },
+    "1797283378": {
+      "id": 1797283378,
+      "name": "灵力灌注",
+      "class_name": "upgrade_infuser",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/infuser.png",
+      "sha256": "05a7dbd8bd4fd418bc1eaa388d2e976758f3a04a5a11e6a44a8158fe24e098e1"
+    },
+    "857669956": {
+      "id": 857669956,
+      "name": "护卫结界",
+      "class_name": "upgrade_guardian_ward",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/guardian_ward.png",
+      "sha256": "fda51a32a3b9d600a56b80a85de6ee56f50fd15049100f150067029f7495be3d"
+    },
+    "1662311306": {
+      "id": 1662311306,
+      "name": "神圣屏障",
+      "class_name": "upgrade_divine_barrier",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/divine_barrier.png",
+      "sha256": "6e714245c61a427a17c33ac3dab9fe24609b4924ca67993d3d5defd66e217b23"
+    },
+    "937242723": {
+      "id": 937242723,
+      "name": "upgrade_aoe_smoke_bomb",
+      "class_name": "upgrade_aoe_smoke_bomb",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/smoke.png",
+      "sha256": "e06b676fea2f088404db748bf20fcf6bc44499073ef3d1c4496b2d4843baec2c"
+    },
+    "1932939246": {
+      "id": 1932939246,
+      "name": "炼金之火",
+      "class_name": "upgrade_thermal_detonator",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/alchemical_fire.png",
+      "sha256": "e281f4e28474539ecd2dadeda3ad053462e527a437ee5c60cd03d5a089e3a53d"
+    },
+    "989206714": {
+      "id": 989206714,
+      "name": "殷红贡礼",
+      "class_name": "upgrade_blood_tribute",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/blood_tribute.png",
+      "sha256": "a7461c88811a4a62b27b85ac6143496f01f2b51fef94925a1a610dd8fa99d7be"
+    },
+    "3403085434": {
+      "id": 3403085434,
+      "name": "轻盈飞步",
+      "class_name": "upgrade_fleetfoot_boots",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/fleetfoot.png",
+      "sha256": "3b4c2162defcc4e1516d23d27722fb06d33648778fc3380304d42e42a5aa402a"
+    },
+    "3977876567": {
+      "id": 3977876567,
+      "name": "动能冲刺",
+      "class_name": "upgrade_kinetic_sash",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/kinetic_dash.png",
+      "sha256": "aa4d10844429da826206b38187b6c1ed28e551f5ed479a07c1a683308307228f"
+    },
+    "1150006784": {
+      "id": 1150006784,
+      "name": "秘法涌动",
+      "class_name": "upgrade_arcane_surge",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/arcane_surge.png",
+      "sha256": "3b85906afbb9edf9078a6a9c8fc16df1934bfd85183fb569894e59facd36d5c7"
+    },
+    "389243496": {
+      "id": 389243496,
+      "name": "upgrade_weapon_eater",
+      "class_name": "upgrade_weapon_eater",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/advanced_weaponry.png",
+      "sha256": "adbc8342f99992875b94fa646ce772306dae2df31062e91494508b762c88f9f2"
+    },
+    "315518818": {
+      "id": 315518818,
+      "name": "upgrade_weapon_instant_reload",
+      "class_name": "upgrade_weapon_instant_reload",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/fast_reload.png",
+      "sha256": "c82f5075d99d718efde77dba661d2a5a25f1285c1a703cc080536c312c0110aa"
+    },
+    "3357231760": {
+      "id": 3357231760,
+      "name": "势不可挡",
+      "class_name": "upgrade_unstoppable",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/unstoppable.png",
+      "sha256": "ae63da996394963f5af0ea6936a0623fdce354b412685a80bca2ce83030d1b6e"
+    },
+    "2407781327": {
+      "id": 2407781327,
+      "name": "巨人",
+      "class_name": "upgrade_colossus",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/colossus.png",
+      "sha256": "9d0d33711825e7ab41c3085323efb98cba6fb6e8ad81dc728208b8c2d4921fee"
+    },
+    "1976391348": {
+      "id": 1976391348,
+      "name": "冰天雪地",
+      "class_name": "upgrade_cold_front",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/cold_front.png",
+      "sha256": "c663136ca0920d6defffb070f7da753631b7e6227b2f8d2f81f5b1dc67dd091d"
+    },
+    "3812615317": {
+      "id": 3812615317,
+      "name": "极地冰暴",
+      "class_name": "upgrade_arctic_blast",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/arctic_blast.png",
+      "sha256": "0eefad21e999a5dfe9276e40cdef89fa21889a8d7ad74176c7a4b88540146f09"
+    },
+    "486220748": {
+      "id": 486220748,
+      "name": "upgrade_aoe_silence",
+      "class_name": "upgrade_aoe_silence",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/emp_wave.png",
+      "sha256": "e78dcd8949fe4c71f98b32537a0628e0d960d69ffd695d1c9bf9c272aa3c3a05"
+    },
+    "2533252781": {
+      "id": 2533252781,
+      "name": "身躯虚化",
+      "class_name": "upgrade_self_bubble",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/ethereal_shift.png",
+      "sha256": "280f0a5a61a761e882dcff27cfb6bd2836411e4ee128bd9d4fe2fd299da6831b"
+    },
+    "385745034": {
+      "id": 385745034,
+      "name": "upgrade_stasis_bomb",
+      "class_name": "upgrade_stasis_bomb",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/stasis.png",
+      "sha256": "7f2b11ffe82b603106ed61edc0a12531aebaaa1465f4eaf120bddd9cb200afe5"
+    },
+    "1641353616": {
+      "id": 1641353616,
+      "name": "upgrade_quarantine",
+      "class_name": "upgrade_quarantine",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/stasis.png",
+      "sha256": "7f2b11ffe82b603106ed61edc0a12531aebaaa1465f4eaf120bddd9cb200afe5"
+    },
+    "2617435668": {
+      "id": 2617435668,
+      "name": "天谴圣物",
+      "class_name": "upgrade_glitch",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/curse.png",
+      "sha256": "842053fcd507641076428b480feb55ee221b0d8b2c29fed16325de364705fcb8"
+    },
+    "1959600032": {
+      "id": 1959600032,
+      "name": "upgrade_imbued_ability",
+      "class_name": "upgrade_imbued_ability",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/tech_damage.png",
+      "sha256": "2c3f53545f6d96bfa30c3f6697a98fe852317a5cfd3292fd34aeee8d55321ce3"
+    },
+    "2951612397": {
+      "id": 2951612397,
+      "name": "余威回荡",
+      "class_name": "upgrade_arcane_extension",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/duration_extender.png",
+      "sha256": "a02880f8cfcd7827579e5983ffeb7c79588aac90bed7d09cdfe3ee7e73ce232d"
+    },
+    "2717651715": {
+      "id": 2717651715,
+      "name": "余威久久",
+      "class_name": "upgrade_imbued_duration_extender",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/superior_duration.png",
+      "sha256": "d9e03ccf81ace4da7a93ffe23dad8afdd9aa0c6cdf5639c0cca6146f441b37b0"
+    },
+    "365620721": {
+      "id": 365620721,
+      "name": "玻璃大炮",
+      "class_name": "upgrade_glass_cannon",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/glass_cannon.png",
+      "sha256": "ec9ead21582347b551126808d5f2e855753720b140040f077c2c977bef2e508d"
+    },
+    "1409190604": {
+      "id": 1409190604,
+      "name": "怒意之潮",
+      "class_name": "upgrade_fury_trance",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/fury_trance.png",
+      "sha256": "68934baa9fec190a10538bcf72d8a972b69fd4d589497efdceb97e02aaa8ab20"
+    },
+    "1055679805": {
+      "id": 1055679805,
+      "name": "疗愈爆发",
+      "class_name": "upgrade_surging_power",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/vampiric_burst.png",
+      "sha256": "d676775258aee4326064726e694580f376ccf943e2c1b73e9166d047426a5cba"
+    },
+    "481022061": {
+      "id": 481022061,
+      "name": "upgrade_mod_disruptor",
+      "class_name": "upgrade_mod_disruptor",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/thermal_detonator.png",
+      "sha256": "c755bc4f12fd45d2043c814e4cb7f04e110eb35c6aaf271272688241c27b3ec8"
+    },
+    "2039312305": {
+      "id": 2039312305,
+      "name": "upgrade_frenzy",
+      "class_name": "upgrade_frenzy",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/health_stealing_bullets.png",
+      "sha256": "1faea79a7ffc516ab32ed66295d282099b57ea23b4392e536d31b764242a9557"
+    },
+    "253917113": {
+      "id": 253917113,
+      "name": "upgrade_burst_fire_actuator",
+      "class_name": "upgrade_burst_fire_actuator",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/fast_reload.png",
+      "sha256": "c82f5075d99d718efde77dba661d2a5a25f1285c1a703cc080536c312c0110aa"
+    },
+    "1252627263": {
+      "id": 1252627263,
+      "name": "生命打击",
+      "class_name": "upgrade_boxing_glove",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/lifestrike.png",
+      "sha256": "623f5b05c7fff43886ecbcfa3c585dffb648ee9ddc2f8bdd2a0b375fb274d0f3"
+    },
+    "465043967": {
+      "id": 465043967,
+      "name": "大伤元气",
+      "class_name": "upgrade_acolytes_glove",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/spirit_strike.png",
+      "sha256": "757e66fbcb3837db9b90fc5e810ba37e82cd2e0845b242fe4673af07c09128d6"
+    },
+    "3190916303": {
+      "id": 3190916303,
+      "name": "元灵收割",
+      "class_name": "upgrade_spirit_snatch",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/spirit_snatch.png",
+      "sha256": "2d663206613b5605ac74838fde659c27db7a68dcc4f1f6ee4c913f4f7c310346"
+    },
+    "26002154": {
+      "id": 26002154,
+      "name": "近战蓄力",
+      "class_name": "upgrade_melee_charge",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/melee_charge.png",
+      "sha256": "ac9b1013568248d0d3cad6be94e948f353594db5ed55f418829805085cdf92f6"
+    },
+    "800008313": {
+      "id": 800008313,
+      "name": "粉碎重拳",
+      "class_name": "upgrade_crushing_fists",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/crushing_fists.png",
+      "sha256": "e4a74b7091765c2434f3adeb3ecd059d0aac08d9f2d91258f637a644a77cffe3"
+    },
+    "3572021243": {
+      "id": 3572021243,
+      "name": "upgrade_charmed_wraps",
+      "class_name": "upgrade_charmed_wraps",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/charmed_wraps.png",
+      "sha256": "b1183bedade1b8332b9d910bf91e3388f2d9fe3fca7f62eaadacaca6e40a6a55"
+    },
+    "1326137213": {
+      "id": 1326137213,
+      "name": "upgrade_belt_fed_magazine",
+      "class_name": "upgrade_belt_fed_magazine",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/auto_reloader.png",
+      "sha256": "df3dce82e0b19b77490fdc21e86c80a290738a638c577d5256b42827438ead20"
+    },
+    "2820116164": {
+      "id": 2820116164,
+      "name": "金刚宝衫",
+      "class_name": "upgrade_diviners_kevlar",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/diviners_kevlar.png",
+      "sha256": "79b8f41039e5d37c6ecf58ba9edbf5e6a8c7008a2d3d6f986b585c19d19bd43e"
+    },
+    "2947183272": {
+      "id": 2947183272,
+      "name": "容光焕发",
+      "class_name": "upgrade_resonant_healing",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/radiant_regeneration.png",
+      "sha256": "ada94affe5e15b6a3e26f8039ccafd40319988aae634df1dafd4d5579440b0fb"
+    },
+    "2519598785": {
+      "id": 2519598785,
+      "name": "灵力无边",
+      "class_name": "upgrade_boundless_spirit",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/boundless_spirit.png",
+      "sha256": "80d6125910ead20f994348b177b4857c5646fbc85ea8431823823dc7e097e88d"
+    },
+    "2739107182": {
+      "id": 2739107182,
+      "name": "健步疾射",
+      "class_name": "upgrade_burst_fire",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/burst_fire.png",
+      "sha256": "182d531fd576bc05c0a9da4d36393de13af7276df28efa1e6294322981e6e292"
+    },
+    "558396679": {
+      "id": 558396679,
+      "name": "元灵常驻",
+      "class_name": "upgrade_resilience",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/resilience.png",
+      "sha256": "a056fcf64c4ab8335af6f00aece7b6d350da91eb8278968797de6003c5bcfb85"
+    },
+    "2829638276": {
+      "id": 2829638276,
+      "name": "加速回复",
+      "class_name": "upgrade_endurance",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/extra_regen.png",
+      "sha256": "58f7ba88d04e834ea745194837bdfc198dc49b35c595cb3b26a91d9ec971e5e8"
+    },
+    "2985482185": {
+      "id": 2985482185,
+      "name": "upgrade_magic_clarity",
+      "class_name": "upgrade_magic_clarity",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/clarity.png",
+      "sha256": "5a0a46c329f5cc820c75c01d1add93ba3281bf4a5ce808bf439168242331a4fe"
+    },
+    "1292979587": {
+      "id": 1292979587,
+      "name": "灵能涌动",
+      "class_name": "upgrade_magic_storm",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/surge_of_power.png",
+      "sha256": "fc90da9ca7918c382566752f61baa1eca6a089d8e6b876a1c0bb0cd4dbb66925"
+    },
+    "1925087134": {
+      "id": 1925087134,
+      "name": "元灵压制",
+      "class_name": "upgrade_suppressor",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/suppressor.png",
+      "sha256": "61f151093d401c723304e28231545293bed015b19d4841a6ed87fecea4923ffc"
+    },
+    "84321454": {
+      "id": 84321454,
+      "name": "魔力装填",
+      "class_name": "upgrade_quick_silver",
+      "item_slot_type": "spirit",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/quicksilver_reload.png",
+      "sha256": "711f214ecf6d48d05f4b5d5bba23b07089738a416e04e58f7d98be1ce3ade163"
+    },
+    "3919289022": {
+      "id": 3919289022,
+      "name": "水银重弹",
+      "class_name": "upgrade_ethereal_bullets",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/mercurial_magnum.png",
+      "sha256": "a679c7cab67a35aa6268940806165a490bfabb7a86e310d88da5818e87359fe0"
+    },
+    "2717142638": {
+      "id": 2717142638,
+      "name": "upgrade_arcane_eater",
+      "class_name": "upgrade_arcane_eater",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/arcane_eater.png",
+      "sha256": "b2965386ecd32093b918cd74e46ccbd9c095dd4273aa3d621975e75a64089abf"
+    },
+    "2574520834": {
+      "id": 2574520834,
+      "name": "upgrade_predator_precision",
+      "class_name": "upgrade_predator_precision",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/close_range.png",
+      "sha256": "ff71e5cf9909259a936ddab7b6c07602cc175d88eb4866671af6ac00c780e75a"
+    },
+    "2407033488": {
+      "id": 2407033488,
+      "name": "火力渐升",
+      "class_name": "upgrade_intensifying_clip",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/intensifying_magazine.png",
+      "sha256": "bbf30c1b19e5bc77f8d66c6e7cf409cc81ada2e9a9ab51f5023d53f8adba5590"
+    },
+    "2463960640": {
+      "id": 2463960640,
+      "name": "层层防御",
+      "class_name": "upgrade_reinforcing_casings",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/escalating_resilience.png",
+      "sha256": "523708f838fc9ff1b5f97b529e50618b78c0e4e882cd9b22e3901fc3ae1f27ec"
+    },
+    "4104549924": {
+      "id": 4104549924,
+      "name": "迅捷突击",
+      "class_name": "upgrade_blitz_bullets",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/swift_striker.png",
+      "sha256": "57292e58913e99e68cf5f07c7bdf28a5a196415915e9fd90c255c929349617e1"
+    },
+    "865958998": {
+      "id": 865958998,
+      "name": "穿幕行者",
+      "class_name": "upgrade_veil_walker",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/veil_walker.png",
+      "sha256": "36d8741358b3706433a7efa3eb899070f1bb572989c0016705671fa94132abcd"
+    },
+    "1644605047": {
+      "id": 1644605047,
+      "name": "应急屏障",
+      "class_name": "upgrade_vex_barrier",
+      "item_slot_type": "vitality",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/reactive_barrier.png",
+      "sha256": "81cea5ba72905fac066a060da200526307d67ae7f11cbe05f36c9cb0fe448b7f"
+    },
+    "951866250": {
+      "id": 951866250,
+      "name": "不屈之志",
+      "class_name": "upgrade_auto_cleanse",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/indomitable.png",
+      "sha256": "378da1cb6ece3b1b0595b55c1c0739b1bd366f7ea8f51191e286958a0bcd340f"
+    },
+    "3862866912": {
+      "id": 3862866912,
+      "name": "疗愈子弹",
+      "class_name": "upgrade_medic_bullets",
+      "item_slot_type": "weapon",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/restorative_shot.png",
+      "sha256": "9f6999f951434f8efa47b495582146d3b9f299d8acbf8914a3895575b1cb4b51"
+    },
+    "2356412290": {
+      "id": 2356412290,
+      "name": "巨型弹匣",
+      "class_name": "upgrade_titan_round",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/titanic_magazine.png",
+      "sha256": "8b3b9d9743a6267ef11a0b00fc35d6ce7ed544e1151c3f2ef405ba167a344c99"
+    },
+    "3647584222": {
+      "id": 3647584222,
+      "name": "裂光射击",
+      "class_name": "upgrade_split_shot",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/split_shot.png",
+      "sha256": "16522f2418d95e798eae19d8166c9d47ef6a91a39849ac14b1d333ce17f7eee5"
+    },
+    "381961617": {
+      "id": 381961617,
+      "name": "高速装填",
+      "class_name": "upgrade_active_reload",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/active_reload.png",
+      "sha256": "c2004e076aafd5678e9ee7c95353a96e3e905ecb86b1796d9e271a4d0c6794a5"
+    },
+    "2800629741": {
+      "id": 2800629741,
+      "name": "魔毯",
+      "class_name": "upgrade_magic_carpet",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/magic_carpet.png",
+      "sha256": "76825b15d21d00979cc7e1a8d9b635b8a9f1b94d41ee980168b4c245495d614d"
+    },
+    "1200177229": {
+      "id": 1200177229,
+      "name": "六叶结界",
+      "class_name": "upgrade_spellshield",
+      "item_slot_type": "vitality",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/debuff_remover.png",
+      "sha256": "6267cc8f83ad97fcf13a95d6692e1e04b75c2b0de08bc8f2b46d1c07a0272c6c"
+    },
+    "2331566268": {
+      "id": 2331566268,
+      "name": "咒印铁拳",
+      "class_name": "upgrade_superacolytes_glove",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_tech/acolytes_glove.png",
+      "sha256": "5e0f4c0329f35aff286011bf29c0065ed9ccc3328009c32405bf46c05239db43"
+    },
+    "194116661": {
+      "id": 194116661,
+      "name": "召唤导弹",
+      "class_name": "upgrade_magic_missile",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/glass_cannon.png",
+      "sha256": "92e420ba69bd84a81c1b7acd92c31aecde297533919c1b602f1c2c2b912ea4d1"
+    },
+    "138320648": {
+      "id": 138320648,
+      "name": "守护神的治疗",
+      "class_name": "upgrade_heal_on_level",
+      "item_slot_type": "vitality",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_armor/last_stand.png",
+      "sha256": "f988fbd023d2e4c8057179a06ae25930d2bf7b021532adc960da4e2a8664e3c1"
+    },
+    "343572757": {
+      "id": 343572757,
+      "name": "元灵燃烧",
+      "class_name": "upgrade_spirit_burn",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/spirit_burn.png",
+      "sha256": "f127b027f9cda8f1b8a6be520d9dca75c5852316e354d21fe3372e7acb394240"
+    },
+    "493591231": {
+      "id": 493591231,
+      "name": "雷鸣卷轴",
+      "class_name": "upgrade_ultimate_burst",
+      "item_slot_type": "spirit",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/lightning_scroll.png",
+      "sha256": "096f131813cd54457f1835e3ab810ca7f1d836c3190ff117780efa6ed4c03e45"
+    },
+    "3913864662": {
+      "id": 3913864662,
+      "name": "灵魂爆炸",
+      "class_name": "upgrade_corpse_explosion",
+      "item_slot_type": "spirit",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_utility/smoke.png",
+      "sha256": "e06b676fea2f088404db748bf20fcf6bc44499073ef3d1c4496b2d4843baec2c"
+    },
+    "3028234315": {
+      "id": 3028234315,
+      "name": "巫师护甲",
+      "class_name": "upgrade_absorbing_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/witchmail.png",
+      "sha256": "f8b809f64db2610c59e68f4e7c3a6842aa2a5a75392f88807bdaa6d2827d50dc"
+    },
+    "1427630806": {
+      "id": 1427630806,
+      "name": "治疗律动",
+      "class_name": "upgrade_healbuff",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/healing_tempo.png",
+      "sha256": "4360a193c06eb438967e2219ff03bf71005088555356b0480388899f07393b4e"
+    },
+    "3346798998": {
+      "id": 3346798998,
+      "name": "无尽弹匣",
+      "class_name": "upgrade_infinitemagazine",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/wraith_daggers.png",
+      "sha256": "2ddf4063737f56de200e4a07458415a41de36a198debc720bcfc371bfc9f5b5c"
+    },
+    "1497973293": {
+      "id": 1497973293,
+      "name": "玻璃大炮 v2",
+      "class_name": "upgrade_glass_cannon2",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/upgrades/mods_weapon/glass_cannon.png",
+      "sha256": "92e420ba69bd84a81c1b7acd92c31aecde297533919c1b602f1c2c2b912ea4d1"
+    },
+    "673001892": {
+      "id": 673001892,
+      "name": "穿甲弹",
+      "class_name": "upgrade_aprounds",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/armor_piercing_rounds.png",
+      "sha256": "e592fef8ece304f591eb0c9c11af927a53df87af199ce84cbb4ca03261b39f5e"
+    },
+    "3269957497": {
+      "id": 3269957497,
+      "name": "无限弹匣",
+      "class_name": "upgrade_infinite_rounds",
+      "item_slot_type": "weapon",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/infinite_rounds.png",
+      "sha256": "b03acef4a13e65b08b268b09fd05c80c5f910e8e43e70fa9f9e2dc5a7c73d732"
+    },
+    "3491236900": {
+      "id": 3491236900,
+      "name": "铁板重甲",
+      "class_name": "upgrade_deflecting_armor",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/plated_armor.png",
+      "sha256": "141048bb4f5840ec3507a9376d0fcf70239bf6dc832de745a08ec7f6d6b8a246"
+    },
+    "1955841979": {
+      "id": 1955841979,
+      "name": "破咒护符",
+      "class_name": "upgrade_spellbreaker",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/spellbreaker.png",
+      "sha256": "10b316dcde2d4a86a450f9e7db05563e639f13265af47f4c5c01623089b5b41f"
+    },
+    "1250307611": {
+      "id": 1250307611,
+      "name": "破阵之势",
+      "class_name": "upgrade_juggernaut",
+      "item_slot_type": "vitality",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/vitality/juggernaut.png",
+      "sha256": "a46d1c30e0fae7b47034de664e5743788e2b34508eef283193187778acbaa51e"
+    },
+    "2221211450": {
+      "id": 2221211450,
+      "name": "施术之手",
+      "class_name": "upgrade_enchanted_holsters",
+      "item_slot_type": "weapon",
+      "item_tier": 4,
+      "cost": 6400,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/spell_slinger.png",
+      "sha256": "4ab1f95b83324934b172e7f7de63eb877203142b1b5457ffc02edcdab1ce0e81"
+    },
+    "98582110": {
+      "id": 98582110,
+      "name": "追猎",
+      "class_name": "upgrade_weapon_backstabber",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/backstabber.png",
+      "sha256": "63f3982f3ef9036e82c748727ee125e8ba339c0a9ac412848fbff98c721533de"
+    },
+    "690458959": {
+      "id": 690458959,
+      "name": "疾速射击",
+      "class_name": "upgrade_express_shot",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/express_shot.png",
+      "sha256": "25a834f452892927636cbc4bd7e2eaa5a311c1f5431ae162784fb88277745ce1"
+    },
+    "1736094134": {
+      "id": 1736094134,
+      "name": "炽天使之翼",
+      "class_name": "upgrade_icarus_wings",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/icarus_wings.png",
+      "sha256": "94f975b9844ec04d2c39a6850f7fc0cc6119a1503381f1e1bc7a880049cef407"
+    },
+    "2054088113": {
+      "id": 2054088113,
+      "name": "神秘钢琴",
+      "class_name": "upgrade_mystical_piano",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/mystical_piano.png",
+      "sha256": "d90e0a1eafdc5c9680e39682d76e7cefe89ccee86a7419e48aeabc5d82422c9f"
+    },
+    "3949773228": {
+      "id": 3949773228,
+      "name": "否决爆发",
+      "class_name": "upgrade_nullification_aura",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/nullification_aura.png",
+      "sha256": "d5e2e08146098451eed58a3975823ac48911a9848016bbeb86f076eb91625312"
+    },
+    "3729138568": {
+      "id": 3729138568,
+      "name": "上界福佑",
+      "class_name": "upgrade_celestial_guidance",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/celestial_guidance.png",
+      "sha256": "17555378017b13af9e5bbef3ca6f9e124723fa33f25ea0de9ec5bd9253f1a8d4"
+    },
+    "230297145": {
+      "id": 230297145,
+      "name": "天赐之礼",
+      "class_name": "upgrade_eternal_gift",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/eternal_gift.png",
+      "sha256": "3ce5e7d1add5d4103e559e7d4adb7564f7b6544a0abbfbfba1a94c20589edce8"
+    },
+    "4050602737": {
+      "id": 4050602737,
+      "name": "秘术管道",
+      "class_name": "upgrade_patrons_blessing",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/patrons_blessing.png",
+      "sha256": "48e11fdc477253f230ce15d69fb3e2db28e2851bbf68f00323db7cc0651f6fe3"
+    },
+    "3568217437": {
+      "id": 3568217437,
+      "name": "灵异子弹",
+      "class_name": "upgrade_eldritch_shot",
+      "item_slot_type": "weapon",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/eldritch_shot.png",
+      "sha256": "a63b9fe83a1d0ddef6e1247c45377e2b70e34fb0d09355718bd123646a6d6400"
+    },
+    "3523480953": {
+      "id": 3523480953,
+      "name": "机遇斗篷",
+      "class_name": "upgrade_cloak_of_opportunity",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/cloak_of_opportunity.png",
+      "sha256": "937f1e4b6060c9aebc1514c2e45118cac2362e7da3c2b06f330f7e830c78396c"
+    },
+    "64550694": {
+      "id": 64550694,
+      "name": "符文手套",
+      "class_name": "upgrade_runed_gauntlets",
+      "item_slot_type": "weapon",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/runed_gauntlets.png",
+      "sha256": "eacde88b8cd234798277c28e955d19d23eda703652fe9ef8bec23ca2a35f4694"
+    },
+    "1825399334": {
+      "id": 1825399334,
+      "name": "霹雳便鞋",
+      "class_name": "upgrade_electric_slippers",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/electric_slippers.png",
+      "sha256": "46dc51faf8fec2615da653ed5d80aefb617feb4e99b42b6e03b28d34be9e3d98"
+    },
+    "1132564516": {
+      "id": 1132564516,
+      "name": "棱镜冲击",
+      "class_name": "upgrade_prism_blast",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/prism_blast.png",
+      "sha256": "bfefdd8e524b418659c97a74868b586774cd081e6422b02f0dea95a21f40a1f0"
+    },
+    "1558545403": {
+      "id": 1558545403,
+      "name": "不稳定化合物",
+      "class_name": "upgrade_unstable_concoction",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/unstable_concoction.png",
+      "sha256": "0fd2fb9920e936fdd5a2fa65aa42fdf52da71c303db04237a402e017a7a3af72"
+    },
+    "2068250483": {
+      "id": 2068250483,
+      "name": "寒霜护符",
+      "class_name": "upgrade_shivas_bracelet",
+      "item_slot_type": "spirit",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/frostbite.png",
+      "sha256": "5eed846f1919d217d476eb51d5b4e5f21f15b51415e06859b0842d12cb120b5e"
+    },
+    "2319629810": {
+      "id": 2319629810,
+      "name": "暗影突袭",
+      "class_name": "upgrade_shadow_strike",
+      "item_slot_type": "vitality",
+      "item_tier": 5,
+      "cost": 9999,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/brawl/shadow_strike.png",
+      "sha256": "0f52da2b58715d1cc932c3a421a5c7a155aa9376885d5af5a9279a5c6899dd42"
+    },
+    "3294954488": {
+      "id": 3294954488,
+      "name": "弹道附魔",
+      "class_name": "upgrade_bulletshredimbue",
+      "item_slot_type": "weapon",
+      "item_tier": 3,
+      "cost": 3200,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/alchemical_seal.png",
+      "sha256": "4d5ffc8dade593156d98defb68bb939e3646738d141bc66dfc5f80a32d5a6e7a"
+    },
+    "1763073141": {
+      "id": 1763073141,
+      "name": "能量迸发",
+      "class_name": "upgrade_rechargingbullets",
+      "item_slot_type": "weapon",
+      "item_tier": 2,
+      "cost": 1600,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/weapon/recharging_rounds.png",
+      "sha256": "46ccde854278b4bd26526721bd99795d071fe241d79c392c9428bb172320536a"
+    },
+    "2462046703": {
+      "id": 2462046703,
+      "name": "金鹅蛋",
+      "class_name": "upgrade_goose_egg",
+      "item_slot_type": "spirit",
+      "item_tier": 1,
+      "cost": 800,
+      "image": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/goose_egg.png",
+      "sha256": "9249cc98c0342184ebfcc20656fe4a2ea6c79edf3a7156cd984392928bd1c645"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+import {spawnSync} from 'node:child_process';
+import {resolve,join} from 'node:path';
+import {cpSync,existsSync,mkdirSync,rmSync} from 'node:fs';
+const root=resolve(import.meta.dirname,'..');
+const local=join(root,'.tools/dotnet/dotnet');
+const dotnet=process.env.DOTNET_PATH || (existsSync(local)?local:'dotnet');
+const env={...process.env,DOTNET_CLI_HOME:join(root,'.tools/dotnet-home'),NUGET_PACKAGES:join(root,'.tools/nuget'),DOTNET_CLI_TELEMETRY_OPTOUT:'1',DOTNET_CLI_DO_NOT_USE_MSBUILD_SERVER:'1',MSBUILDDISABLENODEREUSE:'1'};
+const result=spawnSync(dotnet,['publish','parser/browser/FocusLens.Browser.csproj','-c','Release','-m:1','-nodeReuse:false','-p:UseSharedCompilation=false','-p:NuGetAudit=false','-p:DebugType=None','-p:DebugSymbols=false',`-p:PathMap=${root}=/_/focus-lens-web`,'-p:Deterministic=true'],{cwd:root,env,stdio:'inherit'});
+if(result.status!==0)process.exit(result.status??1);
+const bundle=join(root,'parser/browser/bin/Release/net10.0/browser-wasm/AppBundle');
+if(!existsSync(bundle))throw new Error('Missing browser AppBundle');
+const target=join(root,'public/parser');rmSync(target,{recursive:true,force:true});mkdirSync(target,{recursive:true});cpSync(bundle,target,{recursive:true});
+console.log('Browser parser copied to public/parser');

@@ -1,0 +1,15 @@
+import type {Bridge} from './types';
+export const desktop=false;
+let worker:Worker|null=null,sequence=0,importing=false,currentId='';
+const pending=new Map<number,{resolve:(value:any)=>void;reject:(error:Error)=>void}>();
+const listeners=new Set<(p:any)=>void>();
+function getWorker(){if(!worker){worker=new Worker(new URL('../../../core/web-worker.mjs',import.meta.url),{type:'module'});worker.onmessage=({data})=>{if(data.type==='progress'){listeners.forEach(fn=>fn(data));return;}const task=pending.get(data.id);if(task){pending.delete(data.id);data.error?task.reject(new Error(data.error)):task.resolve(data.result);}};worker.onerror=(event)=>{for(const task of pending.values())task.reject(new Error(event.message||'浏览器后台运行失败，请重新打开对局'));pending.clear();worker?.terminate();worker=null;};}return worker;}
+function call(method:string,args:unknown={}):Promise<any>{return new Promise((resolve,reject)=>{const id=++sequence;pending.set(id,{resolve,reject});getWorker().postMessage({id,method,args});});}
+function chooseFile():Promise<File|null>{return new Promise(resolve=>{const input=document.createElement('input');input.type='file';input.accept='.dem,.dlreview';input.hidden=true;document.body.append(input);const done=(file:File|null)=>{input.remove();resolve(file);};input.onchange=()=>done(input.files?.[0]||null);input.oncancel=()=>done(null);input.click();});}
+function download(data:BlobPart,name:string,type:string){const url=URL.createObjectURL(new Blob([data],{type}));const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),10000);}
+export const api:Bridge={
+ async invoke(method,args:any={}){if(method==='cancel'){if(!importing)return false;worker?.terminate();worker=null;for(const task of pending.values())task.reject(new Error('解析已取消，原有档案保留'));pending.clear();if(currentId)await call('open',{id:currentId});return true;}const result=await call(method,args);if(method==='open')currentId=args.id;return result;},
+ async importFile(){if(!window.isSecureContext)throw new Error('请通过 HTTPS 或 localhost 打开网页，浏览器本地解析需要安全上下文');if(!window.WebAssembly||!window.indexedDB)throw new Error('当前浏览器不支持本地解析，请使用电脑端 Chrome 或 Edge');const file=await chooseFile();if(!file)return null;importing=true;try{void navigator.storage?.persist?.().catch(()=>false);const result=await call('import',{file,runtimeBase:new URL('./parser/',document.baseURI).href});const list=await call('list');currentId=list[0]?.id||'';worker?.terminate();worker=null;if(currentId)await call('open',{id:currentId});return result;}finally{importing=false;}},
+ async exportFile(format,anonymous=false){const summary=await call('summary');const id=summary.metadata.matchId||'review';if(format==='package'){const bytes=await call('exportPackage',{anonymous});download(bytes,`${id}${anonymous?'-anonymous':''}.dlreview`,'application/octet-stream');}else{const text=await call(format==='csv'?'exportCsv':'exportJson');download(text,`${id}.${format}`,format==='csv'?'text/csv;charset=utf-8':'application/json');}return true;},
+ onProgress(fn){listeners.add(fn);return()=>{listeners.delete(fn);};}
+};

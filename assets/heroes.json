@@ -1,0 +1,270 @@
+{
+  "1": {
+    "key": "hero_inferno",
+    "name": "Infernus"
+  },
+  "2": {
+    "key": "hero_gigawatt",
+    "name": "Seven"
+  },
+  "3": {
+    "key": "hero_hornet",
+    "name": "Vindicta"
+  },
+  "4": {
+    "key": "hero_ghost",
+    "name": "Lady Geist"
+  },
+  "6": {
+    "key": "hero_atlas",
+    "name": "Abrams"
+  },
+  "7": {
+    "key": "hero_wraith",
+    "name": "Wraith"
+  },
+  "8": {
+    "key": "hero_forge",
+    "name": "McGinnis"
+  },
+  "10": {
+    "key": "hero_chrono",
+    "name": "Paradox"
+  },
+  "11": {
+    "key": "hero_dynamo",
+    "name": "Dynamo"
+  },
+  "12": {
+    "key": "hero_kelvin",
+    "name": "Kelvin"
+  },
+  "13": {
+    "key": "hero_haze",
+    "name": "Haze"
+  },
+  "14": {
+    "key": "hero_astro",
+    "name": "Holliday"
+  },
+  "15": {
+    "key": "hero_bebop",
+    "name": "Bebop"
+  },
+  "16": {
+    "key": "hero_nano",
+    "name": "Calico"
+  },
+  "17": {
+    "key": "hero_orion",
+    "name": "Grey Talon"
+  },
+  "18": {
+    "key": "hero_krill",
+    "name": "Mo & Krill"
+  },
+  "19": {
+    "key": "hero_shiv",
+    "name": "Shiv"
+  },
+  "20": {
+    "key": "hero_tengu",
+    "name": "Ivy"
+  },
+  "21": {
+    "key": "hero_kali",
+    "name": "Kali"
+  },
+  "25": {
+    "key": "hero_warden",
+    "name": "Warden"
+  },
+  "27": {
+    "key": "hero_yamato",
+    "name": "Yamato"
+  },
+  "31": {
+    "key": "hero_lash",
+    "name": "Lash"
+  },
+  "35": {
+    "key": "hero_viscous",
+    "name": "Viscous"
+  },
+  "38": {
+    "key": "hero_gunslinger",
+    "name": "Gunslinger"
+  },
+  "39": {
+    "key": "hero_yakuza",
+    "name": "The Boss"
+  },
+  "46": {
+    "key": "hero_genericperson",
+    "name": "Generic Person"
+  },
+  "48": {
+    "key": "hero_wrecker",
+    "name": "Wrecker"
+  },
+  "49": {
+    "key": "hero_rutger",
+    "name": "Rutger"
+  },
+  "50": {
+    "key": "hero_synth",
+    "name": "Pocket"
+  },
+  "51": {
+    "key": "hero_thumper",
+    "name": "Thumper"
+  },
+  "52": {
+    "key": "hero_mirage",
+    "name": "Mirage"
+  },
+  "53": {
+    "key": "hero_slork",
+    "name": "Fathom"
+  },
+  "54": {
+    "key": "hero_cadence",
+    "name": "Cadence"
+  },
+  "55": {
+    "key": "hero_targetdummy",
+    "name": "TargetDummy"
+  },
+  "56": {
+    "key": "hero_bomber",
+    "name": "Bomber"
+  },
+  "57": {
+    "key": "hero_shieldguy",
+    "name": "Shield Guy"
+  },
+  "58": {
+    "key": "hero_viper",
+    "name": "Vyper"
+  },
+  "59": {
+    "key": "hero_vandal",
+    "name": "Vandal"
+  },
+  "60": {
+    "key": "hero_magician",
+    "name": "Sinclair"
+  },
+  "61": {
+    "key": "hero_trapper",
+    "name": "Trapper"
+  },
+  "62": {
+    "key": "hero_operative",
+    "name": "Raven"
+  },
+  "63": {
+    "key": "hero_vampirebat",
+    "name": "Mina"
+  },
+  "64": {
+    "key": "hero_drifter",
+    "name": "Drifter"
+  },
+  "65": {
+    "key": "hero_priest",
+    "name": "Venator"
+  },
+  "66": {
+    "key": "hero_frank",
+    "name": "Victor"
+  },
+  "67": {
+    "key": "hero_bookworm",
+    "name": "Paige"
+  },
+  "68": {
+    "key": "hero_boho",
+    "name": "Boho"
+  },
+  "69": {
+    "key": "hero_doorman",
+    "name": "The Doorman"
+  },
+  "70": {
+    "key": "hero_skyrunner",
+    "name": "Skyrunner"
+  },
+  "71": {
+    "key": "hero_swan",
+    "name": "Swan"
+  },
+  "72": {
+    "key": "hero_punkgoat",
+    "name": "Billy"
+  },
+  "73": {
+    "key": "hero_druid",
+    "name": "Druid"
+  },
+  "74": {
+    "key": "hero_graf",
+    "name": "Graf"
+  },
+  "75": {
+    "key": "hero_fortuna",
+    "name": "Fortuna"
+  },
+  "76": {
+    "key": "hero_necro",
+    "name": "Graves"
+  },
+  "77": {
+    "key": "hero_fencer",
+    "name": "Apollo"
+  },
+  "78": {
+    "key": "hero_deadpack",
+    "name": "Deadman Danny"
+  },
+  "79": {
+    "key": "hero_familiar",
+    "name": "Rem"
+  },
+  "80": {
+    "key": "hero_werewolf",
+    "name": "Silver"
+  },
+  "81": {
+    "key": "hero_unicorn",
+    "name": "Celeste"
+  },
+  "82": {
+    "key": "hero_opera",
+    "name": "Opera"
+  },
+  "83": {
+    "key": "hero_testhero",
+    "name": "hero_testhero"
+  },
+  "84": {
+    "key": "hero_ratking",
+    "name": "Rat King"
+  },
+  "85": {
+    "key": "hero_chessmaster",
+    "name": "Solomon"
+  },
+  "86": {
+    "key": "hero_artist",
+    "name": "Violet"
+  },
+  "87": {
+    "key": "hero_nurse",
+    "name": "Nurse Harrow"
+  },
+  "88": {
+    "key": "hero_baba",
+    "name": "Baba"
+  }
+}

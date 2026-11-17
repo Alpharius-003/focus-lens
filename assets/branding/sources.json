@@ -1,0 +1,15 @@
+{
+  "itemId": 2142980412,
+  "name": "聚焦透镜",
+  "englishName": "Focus Lens",
+  "source": "../items/2142980412.png",
+  "url": "https://assets-bucket.deadlock-api.com/assets-api-res/images/items/spirit/focus_lens.png",
+  "sourceSha256": "db44adcd3b1ad376bf4800ce854f88d78b29e5bae6801b72555077ff6f49ff3b",
+  "modification": "Original game artwork resized for application icons; no redrawing. Source is 200 × 200 pixels.",
+  "files": {
+    "focus-lens.ico": "9c11acb171393b7c9500ec7a890a8303c0d3eecd9a2cebb77cbb76e0ed23f61d",
+    "focus-lens.icns": "8071dddc2c41abaf7cc20ef18656a65d404efe36ebd901d232d5d36b43bcd207",
+    "focus-lens.png": "db44adcd3b1ad376bf4800ce854f88d78b29e5bae6801b72555077ff6f49ff3b"
+  },
+  "rights": "Valve game artwork; not covered by project MIT license."
+}

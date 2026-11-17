@@ -1,0 +1,24 @@
+{
+  "retrieved": "2026-11-14",
+  "repository": "SteamTracking/GameTracking-Deadlock",
+  "commit": "82735ebcc9c89d1b3f6b3262c23c9580798ad362",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/SteamTracking/GameTracking-Deadlock/82735ebcc9c89d1b3f6b3262c23c9580798ad362/game/citadel/pak01_dir/panorama/styles/hud_minimap.css",
+      "sha256": "75f1f8feeb7cc2ff9068f2e8ec9317a86de9087f3de253d09cc32ac43897f823"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/SteamTracking/GameTracking-Deadlock/82735ebcc9c89d1b3f6b3262c23c9580798ad362/game/citadel/pak01_dir/panorama/styles/citadel_base_styles.css",
+      "sha256": "2a1ae34915580a09557ca1d021fdb087bcec2263cbe229eff7701c576a2c6103"
+    }
+  ],
+  "colors": {
+    "powerup_weapon": "#FFCC80",
+    "powerup_health": "#D7FF9A",
+    "powerup_magic": "#E1A6FF",
+    "powerup_movement": "#99FFDD",
+    "powerup_souls": "#99FFD6"
+  },
+  "unknown": "#C5CEC9",
+  "notes": "Colors from the Valve game stylesheet tracked at the pinned commit; unknown types remain neutral. souls uses shardColor in citadel_base_styles.css."
+}

@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <NoWarn>$(NoWarn);CS1591;CS8981</NoWarn>
+    <Version>0.44.1</Version>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,458 @@
+{
+  "718596933": {
+    "name": "neutral_base",
+    "className": "neutral_base"
+  },
+  "1250952856": {
+    "name": "Gutter Ghoul I",
+    "className": "neutral_trooper_weak"
+  },
+  "941701082": {
+    "name": "Gutter Ghoul II",
+    "className": "neutral_trooper_normal"
+  },
+  "3392417854": {
+    "name": "Gutter Ghoul III",
+    "className": "neutral_trooper_strong"
+  },
+  "125225046": {
+    "name": "Gutter Ghoul I",
+    "className": "neutral_drain_creature_weak"
+  },
+  "2433738403": {
+    "name": "Gutter Ghoul II",
+    "className": "neutral_drain_creature_normal"
+  },
+  "1599666197": {
+    "name": "Gutter Ghoul III",
+    "className": "neutral_drain_creature_strong"
+  },
+  "855199377": {
+    "name": "Sinner's Sacrifice",
+    "className": "neutral_sinners_sacrifice"
+  },
+  "2357089212": {
+    "name": "Sinner's Sacrifice",
+    "className": "npc_neutral_sinners_sacrifice_hideout"
+  },
+  "1838034729": {
+    "name": "npc_neutral_bug",
+    "className": "npc_neutral_bug"
+  },
+  "779029787": {
+    "name": "npc_neutral_bug_rat",
+    "className": "npc_neutral_bug_rat"
+  },
+  "3585993742": {
+    "name": "npc_neutral_bug_rat_swarm",
+    "className": "npc_neutral_bug_rat_swarm"
+  },
+  "3808026914": {
+    "name": "npc_neutral_flying_pigeon",
+    "className": "npc_neutral_flying_pigeon"
+  },
+  "2586053867": {
+    "name": "npc_neutral_hideout_cat",
+    "className": "npc_neutral_hideout_cat"
+  },
+  "3438906538": {
+    "name": "npc_neutral_hideout_rabbit",
+    "className": "npc_neutral_hideout_rabbit"
+  },
+  "308042692": {
+    "name": "Gutter Ghoul III",
+    "className": "neutral_dock_creature_strong"
+  },
+  "3891381367": {
+    "name": "Overseer I",
+    "className": "neutral_rooftop_pigeon_weak"
+  },
+  "3127791100": {
+    "name": "Overseer II",
+    "className": "neutral_rooftop_pigeon_normal"
+  },
+  "1286821768": {
+    "name": "Overseer III",
+    "className": "neutral_rooftop_pigeon_strong"
+  },
+  "1259212280": {
+    "name": "Underhand I",
+    "className": "neutral_underground_weak"
+  },
+  "4175730378": {
+    "name": "Underhand II",
+    "className": "neutral_underground_normal"
+  },
+  "970727396": {
+    "name": "Underhand III",
+    "className": "neutral_underground_strong"
+  },
+  "574798301": {
+    "name": "Gutter Ghoul I",
+    "className": "neutral_park_watcher_weak"
+  },
+  "1367664385": {
+    "name": "Gutter Ghoul II",
+    "className": "neutral_park_watcher_normal"
+  },
+  "4220517595": {
+    "name": "Gutter Ghoul III",
+    "className": "neutral_park_watcher_strong"
+  },
+  "1761268798": {
+    "name": "Gutter Ghoul I",
+    "className": "neutral_dock_creature_weak"
+  },
+  "4140666111": {
+    "name": "Gutter Ghoul II",
+    "className": "neutral_dock_creature_normal"
+  },
+  "1204392529": {
+    "name": "Crabbage Pot I",
+    "className": "neutral_plant_weak"
+  },
+  "717338593": {
+    "name": "Crabbage Pot II",
+    "className": "neutral_plant_normal"
+  },
+  "2260829023": {
+    "name": "Crabbage Pot III",
+    "className": "neutral_plant_strong"
+  },
+  "3101866758": {
+    "name": "Festival Spirit I",
+    "className": "neutral_lantern_weak"
+  },
+  "1278321830": {
+    "name": "Festival Spirit II",
+    "className": "neutral_lantern_normal"
+  },
+  "4074314617": {
+    "name": "Festival Spirit III",
+    "className": "neutral_lantern_strong"
+  },
+  "1747206880": {
+    "name": "Specimen II",
+    "className": "neutral_specimen_normal"
+  },
+  "2124493431": {
+    "name": "Specimen III",
+    "className": "neutral_specimen_strong"
+  },
+  "377425891": {
+    "name": "Specimen I",
+    "className": "neutral_specimen_weak"
+  },
+  "2442593306": {
+    "name": "Stage Hand II",
+    "className": "neutral_theater_normal"
+  },
+  "1835651478": {
+    "name": "Stage Hand III",
+    "className": "neutral_theater_strong"
+  },
+  "3271896948": {
+    "name": "Stage Hand I",
+    "className": "neutral_theater_weak"
+  },
+  "351245892": {
+    "name": "Gutter Ghoul I",
+    "className": "neutral_street_trash_weak"
+  },
+  "3639247499": {
+    "name": "Gutter Ghoul II",
+    "className": "neutral_street_trash_normal"
+  },
+  "2425574088": {
+    "name": "Gutter Ghoul III",
+    "className": "neutral_street_trash_strong"
+  },
+  "1139944661": {
+    "name": "Past Dues I",
+    "className": "neutral_library_weak"
+  },
+  "3994354271": {
+    "name": "Past Dues II",
+    "className": "neutral_library_normal"
+  },
+  "3017962308": {
+    "name": "Past Dues III",
+    "className": "neutral_library_strong"
+  },
+  "1189619243": {
+    "name": "Slum Shroom II",
+    "className": "neutral_mushroom_normal"
+  },
+  "1273838468": {
+    "name": "Slum Shroom III",
+    "className": "neutral_mushroom_strong"
+  },
+  "1305528690": {
+    "name": "Slum Shroom I",
+    "className": "neutral_mushroom_weak"
+  },
+  "1987596559": {
+    "name": "Barrel Mimic II",
+    "className": "neutral_barrel_01_normal"
+  },
+  "3721762011": {
+    "name": "Barrel Mimic III",
+    "className": "neutral_barrel_01_strong"
+  },
+  "3694004026": {
+    "name": "Barrel Mimic I",
+    "className": "neutral_barrel_01_weak"
+  },
+  "1405297679": {
+    "name": "Barrel Mimic II",
+    "className": "neutral_barrel_02_normal"
+  },
+  "2429068388": {
+    "name": "Barrel Mimic III",
+    "className": "neutral_barrel_02_strong"
+  },
+  "1251130727": {
+    "name": "Barrel Mimic I",
+    "className": "neutral_barrel_02_weak"
+  },
+  "4172910958": {
+    "name": "citadel_item_powerup_spawner",
+    "className": "citadel_item_powerup_spawner"
+  },
+  "2488686909": {
+    "name": "citadel_item_powerup_spawner_bounty_runes",
+    "className": "citadel_item_powerup_spawner_bounty_runes"
+  },
+  "833537427": {
+    "name": "citadel_pickup_spawner",
+    "className": "citadel_pickup_spawner"
+  },
+  "2226700793": {
+    "name": "citadel_pickup_floating_apple",
+    "className": "citadel_pickup_floating_apple"
+  },
+  "654100837": {
+    "name": "citadel_pickup_floating_health",
+    "className": "citadel_pickup_floating_health"
+  },
+  "3457071437": {
+    "name": "citadel_breakable_prop_drop_powerups",
+    "className": "citadel_breakable_prop_drop_powerups"
+  },
+  "341297418": {
+    "name": "citadel_item_pickup",
+    "className": "citadel_item_pickup"
+  },
+  "1409114072": {
+    "name": "citadel_item_pickup_idol",
+    "className": "citadel_item_pickup_idol"
+  },
+  "289368075": {
+    "name": "citadel_item_pickup_rejuv",
+    "className": "citadel_item_pickup_rejuv"
+  },
+  "3820209822": {
+    "name": "citadel_item_pickup_rejuv_herotest",
+    "className": "citadel_item_pickup_rejuv_herotest"
+  },
+  "3036894972": {
+    "name": "{amount, plural, one{Soul} other{Souls}}",
+    "className": "small_gold_pickup"
+  },
+  "1284810104": {
+    "name": "{amount, plural, one{Soul} other{Souls}}",
+    "className": "big_gold_pickup"
+  },
+  "1465128211": {
+    "name": "floating_apple_pickup",
+    "className": "floating_apple_pickup"
+  },
+  "4210113795": {
+    "name": "#halloween_candy_pickup_label",
+    "className": "halloween_candy_pickup"
+  },
+  "201785745": {
+    "name": "Gun",
+    "className": "gun_powerup_pickup"
+  },
+  "828222066": {
+    "name": "Survival",
+    "className": "survival_powerup_pickup"
+  },
+  "15572055": {
+    "name": "Casting",
+    "className": "casting_powerup_pickup"
+  },
+  "754654000": {
+    "name": "Movement",
+    "className": "movement_powerup_pickup"
+  },
+  "951580887": {
+    "name": "Refresh",
+    "className": "refresh_powerup_pickup"
+  },
+  "31027522": {
+    "name": "Change Team",
+    "className": "change_team_powerup_pickup"
+  },
+  "3344911888": {
+    "name": "Souls",
+    "className": "souls_powerup_pickup"
+  },
+  "2365238906": {
+    "name": "+2 Spirit Power",
+    "className": "spirit_permanent_pickup"
+  },
+  "3447178839": {
+    "name": "+3 Spirit Power",
+    "className": "spirit_permanent_pickup_lv2"
+  },
+  "2496153953": {
+    "name": "+4 Spirit Power",
+    "className": "spirit_permanent_pickup_lv3"
+  },
+  "639567848": {
+    "name": "+1.5% Fire Rate",
+    "className": "firerate_permanent_pickup"
+  },
+  "1470635657": {
+    "name": "+2% Fire Rate",
+    "className": "firerate_permanent_pickup_lv2"
+  },
+  "2070007436": {
+    "name": "+2.5% Fire Rate",
+    "className": "firerate_permanent_pickup_lv3"
+  },
+  "3039784139": {
+    "name": "+3% Max Ammo",
+    "className": "ammo_permanent_pickup"
+  },
+  "1937950387": {
+    "name": "+5% Max Ammo",
+    "className": "ammo_permanent_pickup_lv2"
+  },
+  "755268683": {
+    "name": "+7% Max Ammo",
+    "className": "ammo_permanent_pickup_lv3"
+  },
+  "1683824683": {
+    "name": "+15 Bonus Health",
+    "className": "hp_permanent_pickup"
+  },
+  "4180897498": {
+    "name": "+20 Bonus Health",
+    "className": "hp_permanent_pickup_lv2"
+  },
+  "1182568511": {
+    "name": "+30 Bonus Health",
+    "className": "hp_permanent_pickup_lv3"
+  },
+  "2848399878": {
+    "name": "+0.5% Cooldown Reduction",
+    "className": "cd_permanent_pickup"
+  },
+  "2833086415": {
+    "name": "+0.75% Cooldown Reduction",
+    "className": "cd_permanent_pickup_lv2"
+  },
+  "540531328": {
+    "name": "+1% Cooldown Reduction",
+    "className": "cd_permanent_pickup_lv3"
+  },
+  "3282445765": {
+    "name": "+3% Weapon Damage",
+    "className": "wp_permanent_pickup"
+  },
+  "2778554071": {
+    "name": "+4% Weapon Damage",
+    "className": "wp_permanent_pickup_lv2"
+  },
+  "2026620961": {
+    "name": "+6% Weapon Damage",
+    "className": "wp_permanent_pickup_lv3"
+  },
+  "2838596945": {
+    "name": "+0.5% Bullet Resist",
+    "className": "bulletresist_permanent_pickup"
+  },
+  "974475569": {
+    "name": "+0.75% Bullet Resist",
+    "className": "bulletresist_permanent_pickup_lv2"
+  },
+  "3260354483": {
+    "name": "+1% Bullet Resist",
+    "className": "bulletresist_permanent_pickup_lv3"
+  },
+  "624082451": {
+    "name": "+0.5% Spirit Resist",
+    "className": "spiritresist_permanent_pickup"
+  },
+  "804359518": {
+    "name": "+0.75% Spirit Resist",
+    "className": "spiritresist_permanent_pickup_lv2"
+  },
+  "2488066442": {
+    "name": "+1% Spirit Resist",
+    "className": "spiritresist_permanent_pickup_lv3"
+  },
+  "1687990602": {
+    "name": "+0.25% Ability Range",
+    "className": "range_permanent_pickup"
+  },
+  "245199735": {
+    "name": "+0.5% Ability Range",
+    "className": "range_permanent_pickup_lv2"
+  },
+  "2571392344": {
+    "name": "+0.75% Ability Range",
+    "className": "range_permanent_pickup_lv3"
+  },
+  "3852431778": {
+    "name": "+0.1m Move Speed",
+    "className": "movespeed_permanent_pickup"
+  },
+  "2341536156": {
+    "name": "+0.2m Move Speed",
+    "className": "movespeed_permanent_pickup_lv2"
+  },
+  "4063749492": {
+    "name": "+0.3m Move Speed",
+    "className": "movespeed_permanent_pickup_lv3"
+  },
+  "1653866732": {
+    "name": "medic_trooper_aoe_health_pickup_amber",
+    "className": "medic_trooper_aoe_health_pickup_amber"
+  },
+  "207112043": {
+    "name": "medic_trooper_aoe_health_pickup_sapphire",
+    "className": "medic_trooper_aoe_health_pickup_sapphire"
+  },
+  "1436690691": {
+    "name": "citadel_pickup_health_float_in_world",
+    "className": "citadel_pickup_health_float_in_world"
+  },
+  "3657004675": {
+    "name": "dropped_necro_pickup",
+    "className": "dropped_necro_pickup"
+  },
+  "2520019831": {
+    "name": "pickup_artist_drawing_brawler",
+    "className": "pickup_artist_drawing_brawler"
+  },
+  "1037381497": {
+    "name": "pickup_artist_drawing_mystic",
+    "className": "pickup_artist_drawing_mystic"
+  },
+  "863400906": {
+    "name": "pickup_artist_drawing_marksman",
+    "className": "pickup_artist_drawing_marksman"
+  },
+  "3681613560": {
+    "name": "pickup_artist_drawing_assassin",
+    "className": "pickup_artist_drawing_assassin"
+  },
+  "2232081220": {
+    "name": "pickup_artist_drawing_healer",
+    "className": "pickup_artist_drawing_healer"
+  }
+}
