@@ -4,11 +4,11 @@
 
 预期站点： https://skn1siyu.github.io/foucus-lens/
 
-注意仓库名拼写为 **foucus-lens**，与应用名 Focus Lens 不同。工作流按 main 分支发布。检查时（2026-11-17）该公开仓库为空，Pages 尚未启用。本次没有推送、提交或发布到远程。
+注意仓库名拼写为 **foucus-lens**，与应用名 Focus Lens 不同。工作流按 main 分支发布。首次检查时（2026-11-17）该公开仓库为空，Pages 尚未启用。以下保留为首次发布与后续维护流程；实际远程状态以仓库 Actions / Pages 为准。
 
 ## 首次上传（推荐使用干净源码包）
 
-不要从父目录 MacDev 执行 git add。父目录包含桌面软件、录像和研究文件；Web 当前还没有自己的 Git 仓库，直接执行 Git 命令会沿用父仓库。
+不要从父目录 MacDev 执行 git add。父目录包含桌面软件、录像和研究文件；请确认 Git 仓库根目录为 Web 目录，不能沿用父目录仓库。
 
 1. 将 release/focus-lens-web-0.1.0-source.zip 解压到一个单独的新目录。包内 focus_lens_web 才是仓库根目录，直接包含 package.json、apps、public、vendor、.github 和 .gitignore。
 2. 在 GitHub 打开仓库 Settings → Pages → Build and deployment → Source，选择 **GitHub Actions**。若暂时不能选择，首次推送后再设置，并手动运行工作流。

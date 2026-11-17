@@ -1,5 +1,9 @@
 # Focus Lens Web 0.1.0
 
+在线使用：https://skn1siyu.github.io/foucus-lens/ （首次部署完成后可用）
+
+项目代码采用 [MIT](LICENSE)；第三方组件保留各自许可，Valve 游戏素材不属于 MIT 授权范围，见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+
 无需安装客户端的 Deadlock 本地录像复盘网页。首期面向电脑端 Chrome / Edge。独立开发目录，与父目录桌面版隔离。
 
 用户打开 HTTPS 网站，选择本地 `.dem` 或 `.dlreview` 即可使用。服务器仅分发 HTML、JavaScript、WASM 与游戏图片：不提供录像下载、上传、云解析、账号登录或云存储。
