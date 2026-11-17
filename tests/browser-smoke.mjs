@@ -3,7 +3,7 @@ import {writeFileSync,mkdirSync} from 'node:fs';
 import {resolve} from 'node:path';
 const root=resolve(import.meta.dirname,'..');
 const file=process.env.REVIEW_FILE||resolve(root,'../research/134791125.dem');
-const browser=await chromium.launch({channel:process.env.REVIEW_CHANNEL||'chrome',headless:true});
+const browser=await chromium.launch({channel:process.env.REVIEW_CHANNEL||'chrome',headless:true,...(process.env.REVIEW_PROXY?{proxy:{server:process.env.REVIEW_PROXY}}:{})});
 const context=await browser.newContext({viewport:{width:1510,height:1050},acceptDownloads:true});
 const page=await context.newPage(),network=[],errors=[];
 page.on('request',r=>network.push({url:r.url(),method:r.method(),postBytes:r.postDataBuffer()?.length||0}));
