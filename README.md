@@ -1,4 +1,7 @@
-# Focus Lens Web 0.1.0
+# Focus Lens Web 0.1.0（homeport fork）
+
+> 这是 [Skn1Siyu/foucus-lens](https://github.com/Skn1Siyu/foucus-lens) 的 fork，给 homeport 的 Deadlock Discord 机器人用：网址带 `?demo=<链接>` 时自动下载并加载那一场（链接由机器人 `/demo save` 生成，录像放在 Cloudflare R2 的公开桶，只认 `*.r2.dev` 上的 `.dem`）；同一场已在本地档案里就直接打开。网站：https://alpharius-003.github.io/focus-lens/ 。其余照原项目，许可和第三方说明保持不变。
+
 
 在线使用：https://skn1siyu.github.io/foucus-lens/ （首次部署完成后可用）
 
