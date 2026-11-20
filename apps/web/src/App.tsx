@@ -21,6 +21,9 @@ export default function App(){
  const refreshLibrary=useCallback(async()=>{setLibrary(await api.invoke('list'));},[]);
  useEffect(()=>{void act(refreshLibrary);return api.onProgress(setProgress);},[act,refreshLibrary]);
  const load=async(fn:()=>Promise<Summary|null>)=>{setBusy(true);setPlaying(false);setProgress({progress:0,phase:'open'});await act(async()=>{const s=await fn();if(s){request.current++;loading.current=null;setSummary(s);setChunk(null);setTime(0);setSelected(s.players[0]?.id||'');setEncId('');setEconomySort(false);setRules(s.rules);setHistory([]);setResourceId('');await refreshLibrary();}});setBusy(false);};
+ // homeport：带 ?demo=<链接> 打开时自动下载并加载那一场（链接由 Discord 机器人 /demo save 生成）
+ const autoLoaded=useRef(false);
+ useEffect(()=>{if(autoLoaded.current)return;autoLoaded.current=true;const demo=new URLSearchParams(location.search).get('demo');if(demo)void load(()=>api.importUrl(demo));},[]);
  const seek=useCallback((n:number)=>{setTime(Math.max(0,Math.min(summaryRef.current?.metadata.duration||0,n)));},[]);
  const encounters=useMemo(()=>summary?effectiveEncounters(summary.encounters,summary.annotations) as Encounter[]:[],[summary]);
  const encounter=encounters.find(e=>e.id===encId);
